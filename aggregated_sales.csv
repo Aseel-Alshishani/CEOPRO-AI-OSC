@@ -1,0 +1,1309 @@
+month,Product_ID,Product_Name,sales_units,price
+2025-01,PROD-001,Arduino Uno R3,74,7.5
+2025-01,PROD-002,Arduino Nano,58,5.0
+2025-01,PROD-003,Arduino Mega 2560,73,14.0
+2025-01,PROD-004,Raspberry Pi 4 (4GB),38,45.0
+2025-01,PROD-005,Raspberry Pi 5 (8GB),38,75.0
+2025-01,PROD-006,Raspberry Pi Pico,30,4.5
+2025-01,PROD-007,ESP32 NodeMCU WiFi+BT,49,6.0
+2025-01,PROD-008,ESP8266 NodeMCU,55,4.0
+2025-01,PROD-009,STM32 Blue Pill,70,3.5
+2025-01,PROD-010,Teensy 4.0,56,28.0
+2025-01,PROD-011,Ultrasonic Sensor HC-SR04,63,1.7999999999999998
+2025-01,PROD-012,IR Obstacle Sensor,53,1.0
+2025-01,PROD-013,DHT11 Temp/Humidity Sensor,80,1.5
+2025-01,PROD-014,DHT22 Precision Temp Sensor,56,3.8
+2025-01,PROD-015,PIR Motion Sensor,70,2.2
+2025-01,PROD-016,LDR Light Sensor Module,61,1.2
+2025-01,PROD-017,Soil Moisture Sensor,47,1.5
+2025-01,PROD-018,MQ-2 Smoke/Gas Sensor,81,2.5
+2025-01,PROD-019,MQ-7 Carbon Monoxide Sensor,59,3.0
+2025-01,PROD-020,MPU6050 Gyro/Accel Module,53,3.2
+2025-01,PROD-021,Rain Drops Sensor Module,46,1.4
+2025-01,PROD-022,Water Level Sensor,66,1.1
+2025-01,PROD-023,TCS3200 Color Sensor,54,4.5
+2025-01,PROD-024,RFID RC522 Module with Card,69,3.5
+2025-01,PROD-025,Pulse Oximeter Heart Rate Module,55,6.0
+2025-01,PROD-026,Servo Motor SG90,70,2.0
+2025-01,PROD-027,Servo Motor MG996R Metal,51,6.5
+2025-01,PROD-028,Stepper Motor Nema 17,57,12.5
+2025-01,PROD-029,DC Toy Motor 3V-6V,69,0.8000000000000002
+2025-01,PROD-030,L298N Dual Motor Driver,61,2.8
+2025-01,PROD-031,ULN2003 Stepper Driver Module,70,1.5
+2025-01,PROD-032,5V Relay Module 1-Channel,59,1.2
+2025-01,PROD-033,5V Relay Module 4-Channel,73,3.5
+2025-01,PROD-034,Solenoid Lock 12V,68,8.5
+2025-01,PROD-035,Active Buzzer 5V,74,0.5
+2025-01,PROD-036,Resistor Pack (100 pcs),134,1.2
+2025-01,PROD-037,Electrolytic Capacitor Kit,91,4.0
+2025-01,PROD-038,Ceramic Capacitor Kit,115,3.0
+2025-01,PROD-039,LED Assortment (50 pcs),128,1.5
+2025-01,PROD-040,1N4007 Rectifier Diode (10 pcs),60,0.5
+2025-01,PROD-041,Zener Diode Kit,132,3.5
+2025-01,PROD-042,2N2222 NPN Transistor (10 pcs),63,0.8
+2025-01,PROD-043,IRF540N MOSFET Power,52,1.0
+2025-01,PROD-044,NE555 Timer IC,67,0.6
+2025-01,PROD-045,LM358 Dual Op-Amp IC,51,0.5
+2025-01,PROD-046,Potentiometer 10k,52,0.7
+2025-01,PROD-047,Tactile Push Button (10pcs),47,0.8
+2025-01,PROD-048,Soldering Iron 60W Adjustable,73,8.0
+2025-01,PROD-049,Digital Multimeter DT830B,50,12.0
+2025-01,PROD-050,Solder Wire Reel 100g,54,3.5
+2025-01,PROD-051,Soldering Iron Stand,69,2.5
+2025-01,PROD-052,Solder Sucker Desoldering Pump,70,2.0
+2025-01,PROD-053,Wire Stripper & Cutter,63,4.5
+2025-01,PROD-054,Tweezers Anti-static Set (3pcs),58,3.0
+2025-01,PROD-055,Hot Glue Gun 40W,62,6.0
+2025-01,PROD-056,Digital Vernier Caliper,49,15.0
+2025-01,PROD-057,Heat Shrink Tube Kit,111,3.7999999999999994
+2025-01,PROD-058,Heavy Duty 9V Battery,59,1.5
+2025-01,PROD-059,AA Battery Pack (4pcs),91,2.0
+2025-01,PROD-060,18650 Li-ion Battery 2500mAh,74,3.5
+2025-01,PROD-061,Dual 18650 Battery Charger,51,4.5
+2025-01,PROD-062,TP4056 Li-ion Charging Module,50,0.6
+2025-01,PROD-063,MB102 Breadboard Power Module,60,1.8
+2025-01,PROD-064,12V 2A Power Adapter DC,39,5.0
+2025-01,PROD-065,5V 3A USB-C Power Adapter,46,6.5
+2025-01,PROD-066,LM2596 DC-DC Buck Converter,65,1.6
+2025-01,PROD-067,XL6009 DC-DC Boost Converter,62,1.8
+2025-01,PROD-068,Breadboard Full Size (Large),69,2.5
+2025-01,PROD-069,Breadboard Half Size (Mini),56,1.0
+2025-01,PROD-070,Jumper Wires M-M (40pcs),128,1.0
+2025-01,PROD-071,Jumper Wires M-F (40pcs),124,1.0
+2025-01,PROD-072,Jumper Wires F-F (40pcs),139,1.0
+2025-01,PROD-073,USB Cable Type-B for Arduino,66,1.5
+2025-01,PROD-074,USB-C Data Cable 1m,41,2.0
+2025-01,PROD-075,Micro USB Cable 1m,70,1.5
+2025-01,PROD-076,Alligator Clip Test Leads (10pcs),54,2.5
+2025-01,PROD-077,Perfboard Prototype PCB 9x15cm,60,1.2
+2025-01,PROD-078,LCD 1602 Display with I2C,40,3.5
+2025-01,PROD-079,LCD 2004 Character Display I2C,45,6.0
+2025-01,PROD-080,OLED Display 0.96 inch I2C,137,4.0
+2025-01,PROD-081,7-Segment Display 4-Digit,55,1.8
+2025-01,PROD-082,8x8 LED Dot Matrix MAX7219,153,2.5
+2025-01,PROD-083,NeoPixel LED Ring 16-Bit RGB,153,4.5
+2025-01,PROD-084,DC Power Jack Female Panel,52,0.4
+2025-01,PROD-085,DC Power Jack Male Connector,116,0.4
+2025-01,PROD-086,40-Pin Male Header Strip (5pcs),122,0.8
+2025-01,PROD-087,40-Pin Female Header Strip (5pcs),90,1.0
+2025-01,PROD-088,SPDT Toggle Switch Mini,51,0.6
+2025-01,PROD-089,Rocker Switch KCD1 On/Off,72,0.5
+2025-01,PROD-090,Screw Terminal Block 2-Pin (10pc),57,1.5
+2025-01,PROD-091,Banana Plug Red/Black Pair,63,1.2
+2025-01,PROD-092,HC-05 Bluetooth Serial Module,51,4.5
+2025-01,PROD-093,NRF24L01 Wireless 2.4G Module,73,2.0
+2025-01,PROD-094,SIM800L GPRS GSM Module,55,8.5
+2025-01,PROD-095,NEO-6M GPS Module with Antenna,54,12.0
+2025-01,PROD-096,ESP32-CAM Module with Camera,52,8.0
+2025-01,PROD-097,MP3 YX5300 Serial Sound Module,68,3.5
+2025-01,PROD-098,SD Card Reader Module SPI,60,1.5
+2025-01,PROD-099,DS3231 High Precision RTC Module,66,2.8
+2025-01,PROD-100,Smart Car Chassis 2WD Kit,102,14.0
+2025-01,PROD-101,Robot Gripper Mechanical Arm,66,9.0
+2025-01,PROD-102,Omni Directional Wheel 50mm,58,5.0
+2025-01,PROD-103,DC Geared Motor with Wheel,66,2.5
+2025-01,PROD-104,Metal Ball Caster Wheel,74,1.2
+2025-01,PROD-105,74HC595 8-Bit Shift Register,52,0.5
+2025-01,PROD-106,74HC138 3-to-8 Line Decoder,62,0.5
+2025-01,PROD-107,MAX232 RS232 to TTL Converter,69,1.0
+2025-01,PROD-108,L293D Quad Motor Driver IC,49,1.2
+2025-01,PROD-109,PC817 Optocoupler IC,68,0.3
+2025-02,PROD-001,Arduino Uno R3,62,7.5
+2025-02,PROD-002,Arduino Nano,53,5.0
+2025-02,PROD-003,Arduino Mega 2560,66,14.0
+2025-02,PROD-004,Raspberry Pi 4 (4GB),46,45.0
+2025-02,PROD-005,Raspberry Pi 5 (8GB),39,75.0
+2025-02,PROD-006,Raspberry Pi Pico,27,4.5
+2025-02,PROD-007,ESP32 NodeMCU WiFi+BT,44,6.0
+2025-02,PROD-008,ESP8266 NodeMCU,48,4.0
+2025-02,PROD-009,STM32 Blue Pill,59,3.5
+2025-02,PROD-010,Teensy 4.0,58,28.0
+2025-02,PROD-011,Ultrasonic Sensor HC-SR04,56,1.8
+2025-02,PROD-012,IR Obstacle Sensor,57,1.0
+2025-02,PROD-013,DHT11 Temp/Humidity Sensor,74,1.5
+2025-02,PROD-014,DHT22 Precision Temp Sensor,71,3.8
+2025-02,PROD-015,PIR Motion Sensor,61,2.2
+2025-02,PROD-016,LDR Light Sensor Module,61,1.2
+2025-02,PROD-017,Soil Moisture Sensor,60,1.5
+2025-02,PROD-018,MQ-2 Smoke/Gas Sensor,40,2.5
+2025-02,PROD-019,MQ-7 Carbon Monoxide Sensor,46,3.0
+2025-02,PROD-020,MPU6050 Gyro/Accel Module,67,3.2
+2025-02,PROD-021,Rain Drops Sensor Module,60,1.4
+2025-02,PROD-022,Water Level Sensor,59,1.1
+2025-02,PROD-023,TCS3200 Color Sensor,67,4.5
+2025-02,PROD-024,RFID RC522 Module with Card,54,3.5
+2025-02,PROD-025,Pulse Oximeter Heart Rate Module,52,6.0
+2025-02,PROD-026,Servo Motor SG90,51,2.0
+2025-02,PROD-027,Servo Motor MG996R Metal,66,6.5
+2025-02,PROD-028,Stepper Motor Nema 17,68,12.5
+2025-02,PROD-029,DC Toy Motor 3V-6V,60,0.8
+2025-02,PROD-030,L298N Dual Motor Driver,48,2.8
+2025-02,PROD-031,ULN2003 Stepper Driver Module,60,1.5
+2025-02,PROD-032,5V Relay Module 1-Channel,46,1.2
+2025-02,PROD-033,5V Relay Module 4-Channel,50,3.5
+2025-02,PROD-034,Solenoid Lock 12V,51,8.5
+2025-02,PROD-035,Active Buzzer 5V,44,0.5
+2025-02,PROD-036,Resistor Pack (100 pcs),120,1.2
+2025-02,PROD-037,Electrolytic Capacitor Kit,124,4.0
+2025-02,PROD-038,Ceramic Capacitor Kit,136,3.0
+2025-02,PROD-039,LED Assortment (50 pcs),119,1.5
+2025-02,PROD-040,1N4007 Rectifier Diode (10 pcs),56,0.5
+2025-02,PROD-041,Zener Diode Kit,81,3.5
+2025-02,PROD-042,2N2222 NPN Transistor (10 pcs),68,0.8
+2025-02,PROD-043,IRF540N MOSFET Power,63,1.0
+2025-02,PROD-044,NE555 Timer IC,54,0.6
+2025-02,PROD-045,LM358 Dual Op-Amp IC,62,0.5
+2025-02,PROD-046,Potentiometer 10k,61,0.7
+2025-02,PROD-047,Tactile Push Button (10pcs),50,0.8
+2025-02,PROD-048,Soldering Iron 60W Adjustable,52,8.0
+2025-02,PROD-049,Digital Multimeter DT830B,42,12.0
+2025-02,PROD-050,Solder Wire Reel 100g,54,3.5
+2025-02,PROD-051,Soldering Iron Stand,55,2.5
+2025-02,PROD-052,Solder Sucker Desoldering Pump,60,2.0
+2025-02,PROD-053,Wire Stripper & Cutter,59,4.5
+2025-02,PROD-054,Tweezers Anti-static Set (3pcs),52,3.0
+2025-02,PROD-055,Hot Glue Gun 40W,68,6.0
+2025-02,PROD-056,Digital Vernier Caliper,36,15.0
+2025-02,PROD-057,Heat Shrink Tube Kit,145,3.8000000000000003
+2025-02,PROD-058,Heavy Duty 9V Battery,63,1.5
+2025-02,PROD-059,AA Battery Pack (4pcs),94,2.0
+2025-02,PROD-060,18650 Li-ion Battery 2500mAh,64,3.5
+2025-02,PROD-061,Dual 18650 Battery Charger,47,4.5
+2025-02,PROD-062,TP4056 Li-ion Charging Module,68,0.6
+2025-02,PROD-063,MB102 Breadboard Power Module,39,1.8000000000000003
+2025-02,PROD-064,12V 2A Power Adapter DC,63,5.0
+2025-02,PROD-065,5V 3A USB-C Power Adapter,57,6.5
+2025-02,PROD-066,LM2596 DC-DC Buck Converter,45,1.6
+2025-02,PROD-067,XL6009 DC-DC Boost Converter,49,1.8
+2025-02,PROD-068,Breadboard Full Size (Large),61,2.5
+2025-02,PROD-069,Breadboard Half Size (Mini),58,1.0
+2025-02,PROD-070,Jumper Wires M-M (40pcs),110,1.0
+2025-02,PROD-071,Jumper Wires M-F (40pcs),110,1.0
+2025-02,PROD-072,Jumper Wires F-F (40pcs),112,1.0
+2025-02,PROD-073,USB Cable Type-B for Arduino,62,1.5
+2025-02,PROD-074,USB-C Data Cable 1m,59,2.0
+2025-02,PROD-075,Micro USB Cable 1m,70,1.5
+2025-02,PROD-076,Alligator Clip Test Leads (10pcs),53,2.5
+2025-02,PROD-077,Perfboard Prototype PCB 9x15cm,44,1.2
+2025-02,PROD-078,LCD 1602 Display with I2C,60,3.5
+2025-02,PROD-079,LCD 2004 Character Display I2C,55,6.0
+2025-02,PROD-080,OLED Display 0.96 inch I2C,99,4.0
+2025-02,PROD-081,7-Segment Display 4-Digit,50,1.8
+2025-02,PROD-082,8x8 LED Dot Matrix MAX7219,93,2.5
+2025-02,PROD-083,NeoPixel LED Ring 16-Bit RGB,98,4.5
+2025-02,PROD-084,DC Power Jack Female Panel,56,0.4
+2025-02,PROD-085,DC Power Jack Male Connector,126,0.4
+2025-02,PROD-086,40-Pin Male Header Strip (5pcs),128,0.8
+2025-02,PROD-087,40-Pin Female Header Strip (5pcs),111,1.0
+2025-02,PROD-088,SPDT Toggle Switch Mini,42,0.6
+2025-02,PROD-089,Rocker Switch KCD1 On/Off,63,0.5
+2025-02,PROD-090,Screw Terminal Block 2-Pin (10pc),50,1.5
+2025-02,PROD-091,Banana Plug Red/Black Pair,48,1.2
+2025-02,PROD-092,HC-05 Bluetooth Serial Module,64,4.5
+2025-02,PROD-093,NRF24L01 Wireless 2.4G Module,67,2.0
+2025-02,PROD-094,SIM800L GPRS GSM Module,45,8.5
+2025-02,PROD-095,NEO-6M GPS Module with Antenna,58,12.0
+2025-02,PROD-096,ESP32-CAM Module with Camera,54,8.0
+2025-02,PROD-097,MP3 YX5300 Serial Sound Module,72,3.5
+2025-02,PROD-098,SD Card Reader Module SPI,52,1.5
+2025-02,PROD-099,DS3231 High Precision RTC Module,56,2.8
+2025-02,PROD-100,Smart Car Chassis 2WD Kit,108,14.0
+2025-02,PROD-101,Robot Gripper Mechanical Arm,64,9.0
+2025-02,PROD-102,Omni Directional Wheel 50mm,54,5.0
+2025-02,PROD-103,DC Geared Motor with Wheel,34,2.5
+2025-02,PROD-104,Metal Ball Caster Wheel,56,1.2
+2025-02,PROD-105,74HC595 8-Bit Shift Register,48,0.5
+2025-02,PROD-106,74HC138 3-to-8 Line Decoder,55,0.5
+2025-02,PROD-107,MAX232 RS232 to TTL Converter,61,1.0
+2025-02,PROD-108,L293D Quad Motor Driver IC,62,1.2
+2025-02,PROD-109,PC817 Optocoupler IC,50,0.3
+2025-03,PROD-001,Arduino Uno R3,64,7.5
+2025-03,PROD-002,Arduino Nano,66,5.0
+2025-03,PROD-003,Arduino Mega 2560,63,14.0
+2025-03,PROD-004,Raspberry Pi 4 (4GB),53,45.0
+2025-03,PROD-005,Raspberry Pi 5 (8GB),38,75.0
+2025-03,PROD-006,Raspberry Pi Pico,45,4.5
+2025-03,PROD-007,ESP32 NodeMCU WiFi+BT,54,6.0
+2025-03,PROD-008,ESP8266 NodeMCU,68,4.0
+2025-03,PROD-009,STM32 Blue Pill,66,3.5
+2025-03,PROD-010,Teensy 4.0,61,28.0
+2025-03,PROD-011,Ultrasonic Sensor HC-SR04,58,1.8
+2025-03,PROD-012,IR Obstacle Sensor,43,1.0
+2025-03,PROD-013,DHT11 Temp/Humidity Sensor,58,1.5
+2025-03,PROD-014,DHT22 Precision Temp Sensor,45,3.8
+2025-03,PROD-015,PIR Motion Sensor,44,2.2
+2025-03,PROD-016,LDR Light Sensor Module,59,1.2
+2025-03,PROD-017,Soil Moisture Sensor,73,1.5
+2025-03,PROD-018,MQ-2 Smoke/Gas Sensor,79,2.5
+2025-03,PROD-019,MQ-7 Carbon Monoxide Sensor,68,3.0
+2025-03,PROD-020,MPU6050 Gyro/Accel Module,58,3.2
+2025-03,PROD-021,Rain Drops Sensor Module,66,1.4
+2025-03,PROD-022,Water Level Sensor,58,1.1
+2025-03,PROD-023,TCS3200 Color Sensor,54,4.5
+2025-03,PROD-024,RFID RC522 Module with Card,52,3.5
+2025-03,PROD-025,Pulse Oximeter Heart Rate Module,96,6.0
+2025-03,PROD-026,Servo Motor SG90,39,2.0
+2025-03,PROD-027,Servo Motor MG996R Metal,60,6.5
+2025-03,PROD-028,Stepper Motor Nema 17,71,12.5
+2025-03,PROD-029,DC Toy Motor 3V-6V,68,0.8
+2025-03,PROD-030,L298N Dual Motor Driver,84,2.8
+2025-03,PROD-031,ULN2003 Stepper Driver Module,71,1.5
+2025-03,PROD-032,5V Relay Module 1-Channel,50,1.2
+2025-03,PROD-033,5V Relay Module 4-Channel,62,3.5
+2025-03,PROD-034,Solenoid Lock 12V,59,8.5
+2025-03,PROD-035,Active Buzzer 5V,57,0.5
+2025-03,PROD-036,Resistor Pack (100 pcs),98,1.2
+2025-03,PROD-037,Electrolytic Capacitor Kit,134,4.0
+2025-03,PROD-038,Ceramic Capacitor Kit,138,3.0
+2025-03,PROD-039,LED Assortment (50 pcs),102,1.5
+2025-03,PROD-040,1N4007 Rectifier Diode (10 pcs),49,0.5
+2025-03,PROD-041,Zener Diode Kit,135,3.5
+2025-03,PROD-042,2N2222 NPN Transistor (10 pcs),56,0.8
+2025-03,PROD-043,IRF540N MOSFET Power,47,1.0
+2025-03,PROD-044,NE555 Timer IC,63,0.6
+2025-03,PROD-045,LM358 Dual Op-Amp IC,69,0.5
+2025-03,PROD-046,Potentiometer 10k,62,0.7
+2025-03,PROD-047,Tactile Push Button (10pcs),62,0.8000000000000002
+2025-03,PROD-048,Soldering Iron 60W Adjustable,69,8.0
+2025-03,PROD-049,Digital Multimeter DT830B,45,12.0
+2025-03,PROD-050,Solder Wire Reel 100g,63,3.5
+2025-03,PROD-051,Soldering Iron Stand,61,2.5
+2025-03,PROD-052,Solder Sucker Desoldering Pump,59,2.0
+2025-03,PROD-053,Wire Stripper & Cutter,72,4.5
+2025-03,PROD-054,Tweezers Anti-static Set (3pcs),48,3.0
+2025-03,PROD-055,Hot Glue Gun 40W,86,6.0
+2025-03,PROD-056,Digital Vernier Caliper,40,15.0
+2025-03,PROD-057,Heat Shrink Tube Kit,113,3.8000000000000003
+2025-03,PROD-058,Heavy Duty 9V Battery,54,1.5
+2025-03,PROD-059,AA Battery Pack (4pcs),110,2.0
+2025-03,PROD-060,18650 Li-ion Battery 2500mAh,71,3.5
+2025-03,PROD-061,Dual 18650 Battery Charger,71,4.5
+2025-03,PROD-062,TP4056 Li-ion Charging Module,56,0.6
+2025-03,PROD-063,MB102 Breadboard Power Module,59,1.8000000000000003
+2025-03,PROD-064,12V 2A Power Adapter DC,54,5.0
+2025-03,PROD-065,5V 3A USB-C Power Adapter,43,6.5
+2025-03,PROD-066,LM2596 DC-DC Buck Converter,68,1.6
+2025-03,PROD-067,XL6009 DC-DC Boost Converter,58,1.8
+2025-03,PROD-068,Breadboard Full Size (Large),68,2.5
+2025-03,PROD-069,Breadboard Half Size (Mini),64,1.0
+2025-03,PROD-070,Jumper Wires M-M (40pcs),104,1.0
+2025-03,PROD-071,Jumper Wires M-F (40pcs),146,1.0
+2025-03,PROD-072,Jumper Wires F-F (40pcs),110,1.0
+2025-03,PROD-073,USB Cable Type-B for Arduino,59,1.5
+2025-03,PROD-074,USB-C Data Cable 1m,55,2.0
+2025-03,PROD-075,Micro USB Cable 1m,68,1.5
+2025-03,PROD-076,Alligator Clip Test Leads (10pcs),59,2.5
+2025-03,PROD-077,Perfboard Prototype PCB 9x15cm,66,1.2
+2025-03,PROD-078,LCD 1602 Display with I2C,57,3.5
+2025-03,PROD-079,LCD 2004 Character Display I2C,48,6.0
+2025-03,PROD-080,OLED Display 0.96 inch I2C,93,4.0
+2025-03,PROD-081,7-Segment Display 4-Digit,49,1.8
+2025-03,PROD-082,8x8 LED Dot Matrix MAX7219,87,2.5
+2025-03,PROD-083,NeoPixel LED Ring 16-Bit RGB,113,4.5
+2025-03,PROD-084,DC Power Jack Female Panel,48,0.4
+2025-03,PROD-085,DC Power Jack Male Connector,125,0.4
+2025-03,PROD-086,40-Pin Male Header Strip (5pcs),85,0.8
+2025-03,PROD-087,40-Pin Female Header Strip (5pcs),90,1.0
+2025-03,PROD-088,SPDT Toggle Switch Mini,54,0.6
+2025-03,PROD-089,Rocker Switch KCD1 On/Off,64,0.5
+2025-03,PROD-090,Screw Terminal Block 2-Pin (10pc),66,1.5
+2025-03,PROD-091,Banana Plug Red/Black Pair,62,1.2
+2025-03,PROD-092,HC-05 Bluetooth Serial Module,52,4.5
+2025-03,PROD-093,NRF24L01 Wireless 2.4G Module,63,2.0
+2025-03,PROD-094,SIM800L GPRS GSM Module,70,8.5
+2025-03,PROD-095,NEO-6M GPS Module with Antenna,67,12.0
+2025-03,PROD-096,ESP32-CAM Module with Camera,45,8.0
+2025-03,PROD-097,MP3 YX5300 Serial Sound Module,54,3.5
+2025-03,PROD-098,SD Card Reader Module SPI,78,1.5
+2025-03,PROD-099,DS3231 High Precision RTC Module,60,2.8
+2025-03,PROD-100,Smart Car Chassis 2WD Kit,126,14.0
+2025-03,PROD-101,Robot Gripper Mechanical Arm,43,9.0
+2025-03,PROD-102,Omni Directional Wheel 50mm,53,5.0
+2025-03,PROD-103,DC Geared Motor with Wheel,68,2.5
+2025-03,PROD-104,Metal Ball Caster Wheel,60,1.2
+2025-03,PROD-105,74HC595 8-Bit Shift Register,65,0.5
+2025-03,PROD-106,74HC138 3-to-8 Line Decoder,59,0.5
+2025-03,PROD-107,MAX232 RS232 to TTL Converter,87,1.0
+2025-03,PROD-108,L293D Quad Motor Driver IC,52,1.2
+2025-03,PROD-109,PC817 Optocoupler IC,63,0.3
+2025-04,PROD-001,Arduino Uno R3,69,7.5
+2025-04,PROD-002,Arduino Nano,71,5.0
+2025-04,PROD-003,Arduino Mega 2560,64,14.0
+2025-04,PROD-004,Raspberry Pi 4 (4GB),43,45.0
+2025-04,PROD-005,Raspberry Pi 5 (8GB),37,75.0
+2025-04,PROD-006,Raspberry Pi Pico,40,4.5
+2025-04,PROD-007,ESP32 NodeMCU WiFi+BT,52,6.0
+2025-04,PROD-008,ESP8266 NodeMCU,50,4.0
+2025-04,PROD-009,STM32 Blue Pill,49,3.5
+2025-04,PROD-010,Teensy 4.0,57,28.0
+2025-04,PROD-011,Ultrasonic Sensor HC-SR04,56,1.8
+2025-04,PROD-012,IR Obstacle Sensor,81,1.0
+2025-04,PROD-013,DHT11 Temp/Humidity Sensor,61,1.5
+2025-04,PROD-014,DHT22 Precision Temp Sensor,81,3.7999999999999994
+2025-04,PROD-015,PIR Motion Sensor,61,2.2
+2025-04,PROD-016,LDR Light Sensor Module,48,1.2
+2025-04,PROD-017,Soil Moisture Sensor,65,1.5
+2025-04,PROD-018,MQ-2 Smoke/Gas Sensor,73,2.5
+2025-04,PROD-019,MQ-7 Carbon Monoxide Sensor,88,3.0
+2025-04,PROD-020,MPU6050 Gyro/Accel Module,56,3.2
+2025-04,PROD-021,Rain Drops Sensor Module,68,1.4
+2025-04,PROD-022,Water Level Sensor,65,1.1
+2025-04,PROD-023,TCS3200 Color Sensor,66,4.5
+2025-04,PROD-024,RFID RC522 Module with Card,68,3.5
+2025-04,PROD-025,Pulse Oximeter Heart Rate Module,53,6.0
+2025-04,PROD-026,Servo Motor SG90,58,2.0
+2025-04,PROD-027,Servo Motor MG996R Metal,54,6.5
+2025-04,PROD-028,Stepper Motor Nema 17,46,12.5
+2025-04,PROD-029,DC Toy Motor 3V-6V,62,0.8
+2025-04,PROD-030,L298N Dual Motor Driver,56,2.8
+2025-04,PROD-031,ULN2003 Stepper Driver Module,55,1.5
+2025-04,PROD-032,5V Relay Module 1-Channel,64,1.2
+2025-04,PROD-033,5V Relay Module 4-Channel,71,3.5
+2025-04,PROD-034,Solenoid Lock 12V,78,8.5
+2025-04,PROD-035,Active Buzzer 5V,56,0.5
+2025-04,PROD-036,Resistor Pack (100 pcs),132,1.2
+2025-04,PROD-037,Electrolytic Capacitor Kit,120,4.0
+2025-04,PROD-038,Ceramic Capacitor Kit,114,3.0
+2025-04,PROD-039,LED Assortment (50 pcs),97,1.5
+2025-04,PROD-040,1N4007 Rectifier Diode (10 pcs),55,0.5
+2025-04,PROD-041,Zener Diode Kit,151,3.5
+2025-04,PROD-042,2N2222 NPN Transistor (10 pcs),51,0.8
+2025-04,PROD-043,IRF540N MOSFET Power,53,1.0
+2025-04,PROD-044,NE555 Timer IC,47,0.6
+2025-04,PROD-045,LM358 Dual Op-Amp IC,35,0.5
+2025-04,PROD-046,Potentiometer 10k,54,0.7
+2025-04,PROD-047,Tactile Push Button (10pcs),46,0.8
+2025-04,PROD-048,Soldering Iron 60W Adjustable,68,8.0
+2025-04,PROD-049,Digital Multimeter DT830B,39,12.0
+2025-04,PROD-050,Solder Wire Reel 100g,59,3.5
+2025-04,PROD-051,Soldering Iron Stand,55,2.5
+2025-04,PROD-052,Solder Sucker Desoldering Pump,56,2.0
+2025-04,PROD-053,Wire Stripper & Cutter,54,4.5
+2025-04,PROD-054,Tweezers Anti-static Set (3pcs),52,3.0
+2025-04,PROD-055,Hot Glue Gun 40W,58,6.0
+2025-04,PROD-056,Digital Vernier Caliper,47,15.0
+2025-04,PROD-057,Heat Shrink Tube Kit,134,3.8
+2025-04,PROD-058,Heavy Duty 9V Battery,52,1.5
+2025-04,PROD-059,AA Battery Pack (4pcs),119,2.0
+2025-04,PROD-060,18650 Li-ion Battery 2500mAh,58,3.5
+2025-04,PROD-061,Dual 18650 Battery Charger,44,4.5
+2025-04,PROD-062,TP4056 Li-ion Charging Module,49,0.6
+2025-04,PROD-063,MB102 Breadboard Power Module,54,1.8
+2025-04,PROD-064,12V 2A Power Adapter DC,73,5.0
+2025-04,PROD-065,5V 3A USB-C Power Adapter,49,6.5
+2025-04,PROD-066,LM2596 DC-DC Buck Converter,46,1.6
+2025-04,PROD-067,XL6009 DC-DC Boost Converter,64,1.8
+2025-04,PROD-068,Breadboard Full Size (Large),44,2.5
+2025-04,PROD-069,Breadboard Half Size (Mini),63,1.0
+2025-04,PROD-070,Jumper Wires M-M (40pcs),99,1.0
+2025-04,PROD-071,Jumper Wires M-F (40pcs),117,1.0
+2025-04,PROD-072,Jumper Wires F-F (40pcs),94,1.0
+2025-04,PROD-073,USB Cable Type-B for Arduino,50,1.5
+2025-04,PROD-074,USB-C Data Cable 1m,47,2.0
+2025-04,PROD-075,Micro USB Cable 1m,40,1.5
+2025-04,PROD-076,Alligator Clip Test Leads (10pcs),53,2.5
+2025-04,PROD-077,Perfboard Prototype PCB 9x15cm,63,1.2
+2025-04,PROD-078,LCD 1602 Display with I2C,55,3.5
+2025-04,PROD-079,LCD 2004 Character Display I2C,69,6.0
+2025-04,PROD-080,OLED Display 0.96 inch I2C,121,4.0
+2025-04,PROD-081,7-Segment Display 4-Digit,61,1.8
+2025-04,PROD-082,8x8 LED Dot Matrix MAX7219,127,2.5
+2025-04,PROD-083,NeoPixel LED Ring 16-Bit RGB,90,4.5
+2025-04,PROD-084,DC Power Jack Female Panel,69,0.4000000000000001
+2025-04,PROD-085,DC Power Jack Male Connector,88,0.4
+2025-04,PROD-086,40-Pin Male Header Strip (5pcs),138,0.7999999999999999
+2025-04,PROD-087,40-Pin Female Header Strip (5pcs),99,1.0
+2025-04,PROD-088,SPDT Toggle Switch Mini,54,0.6
+2025-04,PROD-089,Rocker Switch KCD1 On/Off,53,0.5
+2025-04,PROD-090,Screw Terminal Block 2-Pin (10pc),56,1.5
+2025-04,PROD-091,Banana Plug Red/Black Pair,59,1.2
+2025-04,PROD-092,HC-05 Bluetooth Serial Module,63,4.5
+2025-04,PROD-093,NRF24L01 Wireless 2.4G Module,72,2.0
+2025-04,PROD-094,SIM800L GPRS GSM Module,70,8.5
+2025-04,PROD-095,NEO-6M GPS Module with Antenna,57,12.0
+2025-04,PROD-096,ESP32-CAM Module with Camera,56,8.0
+2025-04,PROD-097,MP3 YX5300 Serial Sound Module,56,3.5
+2025-04,PROD-098,SD Card Reader Module SPI,65,1.5
+2025-04,PROD-099,DS3231 High Precision RTC Module,44,2.8
+2025-04,PROD-100,Smart Car Chassis 2WD Kit,107,14.0
+2025-04,PROD-101,Robot Gripper Mechanical Arm,59,9.0
+2025-04,PROD-102,Omni Directional Wheel 50mm,57,5.0
+2025-04,PROD-103,DC Geared Motor with Wheel,69,2.5
+2025-04,PROD-104,Metal Ball Caster Wheel,59,1.2
+2025-04,PROD-105,74HC595 8-Bit Shift Register,66,0.5
+2025-04,PROD-106,74HC138 3-to-8 Line Decoder,43,0.5
+2025-04,PROD-107,MAX232 RS232 to TTL Converter,55,1.0
+2025-04,PROD-108,L293D Quad Motor Driver IC,50,1.2
+2025-04,PROD-109,PC817 Optocoupler IC,82,0.3
+2025-05,PROD-001,Arduino Uno R3,82,7.5
+2025-05,PROD-002,Arduino Nano,66,5.0
+2025-05,PROD-003,Arduino Mega 2560,52,14.0
+2025-05,PROD-004,Raspberry Pi 4 (4GB),32,45.0
+2025-05,PROD-005,Raspberry Pi 5 (8GB),38,75.0
+2025-05,PROD-006,Raspberry Pi Pico,44,4.5
+2025-05,PROD-007,ESP32 NodeMCU WiFi+BT,65,6.0
+2025-05,PROD-008,ESP8266 NodeMCU,70,4.0
+2025-05,PROD-009,STM32 Blue Pill,69,3.5
+2025-05,PROD-010,Teensy 4.0,54,28.0
+2025-05,PROD-011,Ultrasonic Sensor HC-SR04,68,1.8000000000000003
+2025-05,PROD-012,IR Obstacle Sensor,85,1.0
+2025-05,PROD-013,DHT11 Temp/Humidity Sensor,54,1.5
+2025-05,PROD-014,DHT22 Precision Temp Sensor,58,3.8
+2025-05,PROD-015,PIR Motion Sensor,64,2.2
+2025-05,PROD-016,LDR Light Sensor Module,55,1.2
+2025-05,PROD-017,Soil Moisture Sensor,63,1.5
+2025-05,PROD-018,MQ-2 Smoke/Gas Sensor,66,2.5
+2025-05,PROD-019,MQ-7 Carbon Monoxide Sensor,55,3.0
+2025-05,PROD-020,MPU6050 Gyro/Accel Module,50,3.2
+2025-05,PROD-021,Rain Drops Sensor Module,77,1.4
+2025-05,PROD-022,Water Level Sensor,52,1.1
+2025-05,PROD-023,TCS3200 Color Sensor,64,4.5
+2025-05,PROD-024,RFID RC522 Module with Card,65,3.5
+2025-05,PROD-025,Pulse Oximeter Heart Rate Module,71,6.0
+2025-05,PROD-026,Servo Motor SG90,55,2.0
+2025-05,PROD-027,Servo Motor MG996R Metal,56,6.5
+2025-05,PROD-028,Stepper Motor Nema 17,66,12.5
+2025-05,PROD-029,DC Toy Motor 3V-6V,75,0.8
+2025-05,PROD-030,L298N Dual Motor Driver,57,2.8
+2025-05,PROD-031,ULN2003 Stepper Driver Module,56,1.5
+2025-05,PROD-032,5V Relay Module 1-Channel,71,1.2
+2025-05,PROD-033,5V Relay Module 4-Channel,57,3.5
+2025-05,PROD-034,Solenoid Lock 12V,50,8.5
+2025-05,PROD-035,Active Buzzer 5V,64,0.5
+2025-05,PROD-036,Resistor Pack (100 pcs),133,1.2
+2025-05,PROD-037,Electrolytic Capacitor Kit,123,4.0
+2025-05,PROD-038,Ceramic Capacitor Kit,125,3.0
+2025-05,PROD-039,LED Assortment (50 pcs),132,1.5
+2025-05,PROD-040,1N4007 Rectifier Diode (10 pcs),67,0.5
+2025-05,PROD-041,Zener Diode Kit,119,3.5
+2025-05,PROD-042,2N2222 NPN Transistor (10 pcs),55,0.8
+2025-05,PROD-043,IRF540N MOSFET Power,74,1.0
+2025-05,PROD-044,NE555 Timer IC,60,0.6
+2025-05,PROD-045,LM358 Dual Op-Amp IC,69,0.5
+2025-05,PROD-046,Potentiometer 10k,57,0.7
+2025-05,PROD-047,Tactile Push Button (10pcs),80,0.8
+2025-05,PROD-048,Soldering Iron 60W Adjustable,48,8.0
+2025-05,PROD-049,Digital Multimeter DT830B,46,12.0
+2025-05,PROD-050,Solder Wire Reel 100g,70,3.5
+2025-05,PROD-051,Soldering Iron Stand,65,2.5
+2025-05,PROD-052,Solder Sucker Desoldering Pump,81,2.0
+2025-05,PROD-053,Wire Stripper & Cutter,60,4.5
+2025-05,PROD-054,Tweezers Anti-static Set (3pcs),48,3.0
+2025-05,PROD-055,Hot Glue Gun 40W,62,6.0
+2025-05,PROD-056,Digital Vernier Caliper,44,15.0
+2025-05,PROD-057,Heat Shrink Tube Kit,111,3.8000000000000003
+2025-05,PROD-058,Heavy Duty 9V Battery,57,1.5
+2025-05,PROD-059,AA Battery Pack (4pcs),141,2.0
+2025-05,PROD-060,18650 Li-ion Battery 2500mAh,70,3.5
+2025-05,PROD-061,Dual 18650 Battery Charger,70,4.5
+2025-05,PROD-062,TP4056 Li-ion Charging Module,63,0.6
+2025-05,PROD-063,MB102 Breadboard Power Module,48,1.8
+2025-05,PROD-064,12V 2A Power Adapter DC,54,5.0
+2025-05,PROD-065,5V 3A USB-C Power Adapter,68,6.5
+2025-05,PROD-066,LM2596 DC-DC Buck Converter,57,1.6
+2025-05,PROD-067,XL6009 DC-DC Boost Converter,70,1.8
+2025-05,PROD-068,Breadboard Full Size (Large),55,2.5
+2025-05,PROD-069,Breadboard Half Size (Mini),56,1.0
+2025-05,PROD-070,Jumper Wires M-M (40pcs),147,1.0
+2025-05,PROD-071,Jumper Wires M-F (40pcs),105,1.0
+2025-05,PROD-072,Jumper Wires F-F (40pcs),136,1.0
+2025-05,PROD-073,USB Cable Type-B for Arduino,59,1.5
+2025-05,PROD-074,USB-C Data Cable 1m,31,2.0
+2025-05,PROD-075,Micro USB Cable 1m,66,1.5
+2025-05,PROD-076,Alligator Clip Test Leads (10pcs),60,2.5
+2025-05,PROD-077,Perfboard Prototype PCB 9x15cm,58,1.2
+2025-05,PROD-078,LCD 1602 Display with I2C,71,3.5
+2025-05,PROD-079,LCD 2004 Character Display I2C,38,6.0
+2025-05,PROD-080,OLED Display 0.96 inch I2C,144,4.0
+2025-05,PROD-081,7-Segment Display 4-Digit,64,1.8000000000000003
+2025-05,PROD-082,8x8 LED Dot Matrix MAX7219,128,2.5
+2025-05,PROD-083,NeoPixel LED Ring 16-Bit RGB,140,4.5
+2025-05,PROD-084,DC Power Jack Female Panel,60,0.4000000000000001
+2025-05,PROD-085,DC Power Jack Male Connector,103,0.4
+2025-05,PROD-086,40-Pin Male Header Strip (5pcs),115,0.8
+2025-05,PROD-087,40-Pin Female Header Strip (5pcs),109,1.0
+2025-05,PROD-088,SPDT Toggle Switch Mini,45,0.6
+2025-05,PROD-089,Rocker Switch KCD1 On/Off,54,0.5
+2025-05,PROD-090,Screw Terminal Block 2-Pin (10pc),41,1.5
+2025-05,PROD-091,Banana Plug Red/Black Pair,76,1.2
+2025-05,PROD-092,HC-05 Bluetooth Serial Module,79,4.5
+2025-05,PROD-093,NRF24L01 Wireless 2.4G Module,70,2.0
+2025-05,PROD-094,SIM800L GPRS GSM Module,61,8.5
+2025-05,PROD-095,NEO-6M GPS Module with Antenna,56,12.0
+2025-05,PROD-096,ESP32-CAM Module with Camera,62,8.0
+2025-05,PROD-097,MP3 YX5300 Serial Sound Module,67,3.5
+2025-05,PROD-098,SD Card Reader Module SPI,67,1.5
+2025-05,PROD-099,DS3231 High Precision RTC Module,54,2.8
+2025-05,PROD-100,Smart Car Chassis 2WD Kit,103,14.0
+2025-05,PROD-101,Robot Gripper Mechanical Arm,77,9.0
+2025-05,PROD-102,Omni Directional Wheel 50mm,54,5.0
+2025-05,PROD-103,DC Geared Motor with Wheel,61,2.5
+2025-05,PROD-104,Metal Ball Caster Wheel,52,1.2
+2025-05,PROD-105,74HC595 8-Bit Shift Register,53,0.5
+2025-05,PROD-106,74HC138 3-to-8 Line Decoder,61,0.5
+2025-05,PROD-107,MAX232 RS232 to TTL Converter,64,1.0
+2025-05,PROD-108,L293D Quad Motor Driver IC,64,1.2
+2025-05,PROD-109,PC817 Optocoupler IC,79,0.3
+2025-06,PROD-001,Arduino Uno R3,63,7.5
+2025-06,PROD-002,Arduino Nano,50,5.0
+2025-06,PROD-003,Arduino Mega 2560,62,14.0
+2025-06,PROD-004,Raspberry Pi 4 (4GB),33,45.0
+2025-06,PROD-005,Raspberry Pi 5 (8GB),44,75.0
+2025-06,PROD-006,Raspberry Pi Pico,45,4.5
+2025-06,PROD-007,ESP32 NodeMCU WiFi+BT,66,6.0
+2025-06,PROD-008,ESP8266 NodeMCU,45,4.0
+2025-06,PROD-009,STM32 Blue Pill,40,3.5
+2025-06,PROD-010,Teensy 4.0,82,28.0
+2025-06,PROD-011,Ultrasonic Sensor HC-SR04,65,1.8
+2025-06,PROD-012,IR Obstacle Sensor,55,1.0
+2025-06,PROD-013,DHT11 Temp/Humidity Sensor,55,1.5
+2025-06,PROD-014,DHT22 Precision Temp Sensor,54,3.8
+2025-06,PROD-015,PIR Motion Sensor,51,2.2
+2025-06,PROD-016,LDR Light Sensor Module,55,1.2
+2025-06,PROD-017,Soil Moisture Sensor,60,1.5
+2025-06,PROD-018,MQ-2 Smoke/Gas Sensor,71,2.5
+2025-06,PROD-019,MQ-7 Carbon Monoxide Sensor,75,3.0
+2025-06,PROD-020,MPU6050 Gyro/Accel Module,61,3.2000000000000006
+2025-06,PROD-021,Rain Drops Sensor Module,70,1.4
+2025-06,PROD-022,Water Level Sensor,74,1.1
+2025-06,PROD-023,TCS3200 Color Sensor,57,4.5
+2025-06,PROD-024,RFID RC522 Module with Card,68,3.5
+2025-06,PROD-025,Pulse Oximeter Heart Rate Module,45,6.0
+2025-06,PROD-026,Servo Motor SG90,69,2.0
+2025-06,PROD-027,Servo Motor MG996R Metal,68,6.5
+2025-06,PROD-028,Stepper Motor Nema 17,44,12.5
+2025-06,PROD-029,DC Toy Motor 3V-6V,80,0.8
+2025-06,PROD-030,L298N Dual Motor Driver,61,2.8
+2025-06,PROD-031,ULN2003 Stepper Driver Module,70,1.5
+2025-06,PROD-032,5V Relay Module 1-Channel,57,1.2
+2025-06,PROD-033,5V Relay Module 4-Channel,53,3.5
+2025-06,PROD-034,Solenoid Lock 12V,55,8.5
+2025-06,PROD-035,Active Buzzer 5V,67,0.5
+2025-06,PROD-036,Resistor Pack (100 pcs),104,1.2
+2025-06,PROD-037,Electrolytic Capacitor Kit,104,4.0
+2025-06,PROD-038,Ceramic Capacitor Kit,125,3.0
+2025-06,PROD-039,LED Assortment (50 pcs),127,1.5
+2025-06,PROD-040,1N4007 Rectifier Diode (10 pcs),63,0.5
+2025-06,PROD-041,Zener Diode Kit,124,3.5
+2025-06,PROD-042,2N2222 NPN Transistor (10 pcs),58,0.8
+2025-06,PROD-043,IRF540N MOSFET Power,74,1.0
+2025-06,PROD-044,NE555 Timer IC,75,0.6
+2025-06,PROD-045,LM358 Dual Op-Amp IC,50,0.5
+2025-06,PROD-046,Potentiometer 10k,63,0.7
+2025-06,PROD-047,Tactile Push Button (10pcs),67,0.7999999999999999
+2025-06,PROD-048,Soldering Iron 60W Adjustable,57,8.0
+2025-06,PROD-049,Digital Multimeter DT830B,39,12.0
+2025-06,PROD-050,Solder Wire Reel 100g,52,3.5
+2025-06,PROD-051,Soldering Iron Stand,70,2.5
+2025-06,PROD-052,Solder Sucker Desoldering Pump,53,2.0
+2025-06,PROD-053,Wire Stripper & Cutter,71,4.5
+2025-06,PROD-054,Tweezers Anti-static Set (3pcs),53,3.0
+2025-06,PROD-055,Hot Glue Gun 40W,76,6.0
+2025-06,PROD-056,Digital Vernier Caliper,35,15.0
+2025-06,PROD-057,Heat Shrink Tube Kit,127,3.8000000000000003
+2025-06,PROD-058,Heavy Duty 9V Battery,60,1.5
+2025-06,PROD-059,AA Battery Pack (4pcs),85,2.0
+2025-06,PROD-060,18650 Li-ion Battery 2500mAh,54,3.5
+2025-06,PROD-061,Dual 18650 Battery Charger,63,4.5
+2025-06,PROD-062,TP4056 Li-ion Charging Module,60,0.6
+2025-06,PROD-063,MB102 Breadboard Power Module,63,1.8
+2025-06,PROD-064,12V 2A Power Adapter DC,56,5.0
+2025-06,PROD-065,5V 3A USB-C Power Adapter,54,6.5
+2025-06,PROD-066,LM2596 DC-DC Buck Converter,71,1.6
+2025-06,PROD-067,XL6009 DC-DC Boost Converter,47,1.8
+2025-06,PROD-068,Breadboard Full Size (Large),60,2.5
+2025-06,PROD-069,Breadboard Half Size (Mini),57,1.0
+2025-06,PROD-070,Jumper Wires M-M (40pcs),113,1.0
+2025-06,PROD-071,Jumper Wires M-F (40pcs),128,1.0
+2025-06,PROD-072,Jumper Wires F-F (40pcs),99,1.0
+2025-06,PROD-073,USB Cable Type-B for Arduino,37,1.5
+2025-06,PROD-074,USB-C Data Cable 1m,45,2.0
+2025-06,PROD-075,Micro USB Cable 1m,48,1.5
+2025-06,PROD-076,Alligator Clip Test Leads (10pcs),60,2.5
+2025-06,PROD-077,Perfboard Prototype PCB 9x15cm,52,1.2
+2025-06,PROD-078,LCD 1602 Display with I2C,58,3.5
+2025-06,PROD-079,LCD 2004 Character Display I2C,73,6.0
+2025-06,PROD-080,OLED Display 0.96 inch I2C,87,4.0
+2025-06,PROD-081,7-Segment Display 4-Digit,43,1.8
+2025-06,PROD-082,8x8 LED Dot Matrix MAX7219,122,2.5
+2025-06,PROD-083,NeoPixel LED Ring 16-Bit RGB,101,4.5
+2025-06,PROD-084,DC Power Jack Female Panel,62,0.4
+2025-06,PROD-085,DC Power Jack Male Connector,112,0.4
+2025-06,PROD-086,40-Pin Male Header Strip (5pcs),108,0.8
+2025-06,PROD-087,40-Pin Female Header Strip (5pcs),92,1.0
+2025-06,PROD-088,SPDT Toggle Switch Mini,50,0.6
+2025-06,PROD-089,Rocker Switch KCD1 On/Off,47,0.5
+2025-06,PROD-090,Screw Terminal Block 2-Pin (10pc),62,1.5
+2025-06,PROD-091,Banana Plug Red/Black Pair,56,1.2
+2025-06,PROD-092,HC-05 Bluetooth Serial Module,69,4.5
+2025-06,PROD-093,NRF24L01 Wireless 2.4G Module,71,2.0
+2025-06,PROD-094,SIM800L GPRS GSM Module,67,8.5
+2025-06,PROD-095,NEO-6M GPS Module with Antenna,53,12.0
+2025-06,PROD-096,ESP32-CAM Module with Camera,53,8.0
+2025-06,PROD-097,MP3 YX5300 Serial Sound Module,50,3.5
+2025-06,PROD-098,SD Card Reader Module SPI,71,1.5
+2025-06,PROD-099,DS3231 High Precision RTC Module,52,2.8
+2025-06,PROD-100,Smart Car Chassis 2WD Kit,133,14.0
+2025-06,PROD-101,Robot Gripper Mechanical Arm,62,9.0
+2025-06,PROD-102,Omni Directional Wheel 50mm,44,5.0
+2025-06,PROD-103,DC Geared Motor with Wheel,59,2.5
+2025-06,PROD-104,Metal Ball Caster Wheel,58,1.2
+2025-06,PROD-105,74HC595 8-Bit Shift Register,73,0.5
+2025-06,PROD-106,74HC138 3-to-8 Line Decoder,67,0.5
+2025-06,PROD-107,MAX232 RS232 to TTL Converter,60,1.0
+2025-06,PROD-108,L293D Quad Motor Driver IC,55,1.2
+2025-06,PROD-109,PC817 Optocoupler IC,68,0.3
+2025-07,PROD-001,Arduino Uno R3,76,7.5
+2025-07,PROD-002,Arduino Nano,43,5.0
+2025-07,PROD-003,Arduino Mega 2560,46,14.0
+2025-07,PROD-004,Raspberry Pi 4 (4GB),36,45.0
+2025-07,PROD-005,Raspberry Pi 5 (8GB),40,75.0
+2025-07,PROD-006,Raspberry Pi Pico,38,4.5
+2025-07,PROD-007,ESP32 NodeMCU WiFi+BT,60,6.0
+2025-07,PROD-008,ESP8266 NodeMCU,80,4.0
+2025-07,PROD-009,STM32 Blue Pill,57,3.5
+2025-07,PROD-010,Teensy 4.0,50,28.0
+2025-07,PROD-011,Ultrasonic Sensor HC-SR04,85,1.8000000000000003
+2025-07,PROD-012,IR Obstacle Sensor,71,1.0
+2025-07,PROD-013,DHT11 Temp/Humidity Sensor,63,1.5
+2025-07,PROD-014,DHT22 Precision Temp Sensor,50,3.8
+2025-07,PROD-015,PIR Motion Sensor,69,2.2
+2025-07,PROD-016,LDR Light Sensor Module,66,1.2
+2025-07,PROD-017,Soil Moisture Sensor,61,1.5
+2025-07,PROD-018,MQ-2 Smoke/Gas Sensor,66,2.5
+2025-07,PROD-019,MQ-7 Carbon Monoxide Sensor,71,3.0
+2025-07,PROD-020,MPU6050 Gyro/Accel Module,48,3.2
+2025-07,PROD-021,Rain Drops Sensor Module,61,1.4
+2025-07,PROD-022,Water Level Sensor,67,1.1
+2025-07,PROD-023,TCS3200 Color Sensor,65,4.5
+2025-07,PROD-024,RFID RC522 Module with Card,60,3.5
+2025-07,PROD-025,Pulse Oximeter Heart Rate Module,60,6.0
+2025-07,PROD-026,Servo Motor SG90,69,2.0
+2025-07,PROD-027,Servo Motor MG996R Metal,68,6.5
+2025-07,PROD-028,Stepper Motor Nema 17,54,12.5
+2025-07,PROD-029,DC Toy Motor 3V-6V,46,0.8
+2025-07,PROD-030,L298N Dual Motor Driver,63,2.8
+2025-07,PROD-031,ULN2003 Stepper Driver Module,68,1.5
+2025-07,PROD-032,5V Relay Module 1-Channel,56,1.2
+2025-07,PROD-033,5V Relay Module 4-Channel,56,3.5
+2025-07,PROD-034,Solenoid Lock 12V,57,8.5
+2025-07,PROD-035,Active Buzzer 5V,52,0.5
+2025-07,PROD-036,Resistor Pack (100 pcs),124,1.2
+2025-07,PROD-037,Electrolytic Capacitor Kit,93,4.0
+2025-07,PROD-038,Ceramic Capacitor Kit,112,3.0
+2025-07,PROD-039,LED Assortment (50 pcs),119,1.5
+2025-07,PROD-040,1N4007 Rectifier Diode (10 pcs),71,0.5
+2025-07,PROD-041,Zener Diode Kit,159,3.5
+2025-07,PROD-042,2N2222 NPN Transistor (10 pcs),60,0.8
+2025-07,PROD-043,IRF540N MOSFET Power,62,1.0
+2025-07,PROD-044,NE555 Timer IC,70,0.6
+2025-07,PROD-045,LM358 Dual Op-Amp IC,57,0.5
+2025-07,PROD-046,Potentiometer 10k,58,0.7
+2025-07,PROD-047,Tactile Push Button (10pcs),63,0.8
+2025-07,PROD-048,Soldering Iron 60W Adjustable,72,8.0
+2025-07,PROD-049,Digital Multimeter DT830B,38,12.0
+2025-07,PROD-050,Solder Wire Reel 100g,64,3.5
+2025-07,PROD-051,Soldering Iron Stand,66,2.5
+2025-07,PROD-052,Solder Sucker Desoldering Pump,43,2.0
+2025-07,PROD-053,Wire Stripper & Cutter,73,4.5
+2025-07,PROD-054,Tweezers Anti-static Set (3pcs),54,3.0
+2025-07,PROD-055,Hot Glue Gun 40W,67,6.0
+2025-07,PROD-056,Digital Vernier Caliper,44,15.0
+2025-07,PROD-057,Heat Shrink Tube Kit,104,3.8
+2025-07,PROD-058,Heavy Duty 9V Battery,64,1.5
+2025-07,PROD-059,AA Battery Pack (4pcs),157,2.0
+2025-07,PROD-060,18650 Li-ion Battery 2500mAh,47,3.5
+2025-07,PROD-061,Dual 18650 Battery Charger,72,4.5
+2025-07,PROD-062,TP4056 Li-ion Charging Module,53,0.6
+2025-07,PROD-063,MB102 Breadboard Power Module,58,1.8
+2025-07,PROD-064,12V 2A Power Adapter DC,53,5.0
+2025-07,PROD-065,5V 3A USB-C Power Adapter,38,6.5
+2025-07,PROD-066,LM2596 DC-DC Buck Converter,65,1.6
+2025-07,PROD-067,XL6009 DC-DC Boost Converter,72,1.8
+2025-07,PROD-068,Breadboard Full Size (Large),65,2.5
+2025-07,PROD-069,Breadboard Half Size (Mini),57,1.0
+2025-07,PROD-070,Jumper Wires M-M (40pcs),119,1.0
+2025-07,PROD-071,Jumper Wires M-F (40pcs),140,1.0
+2025-07,PROD-072,Jumper Wires F-F (40pcs),116,1.0
+2025-07,PROD-073,USB Cable Type-B for Arduino,68,1.5
+2025-07,PROD-074,USB-C Data Cable 1m,64,2.0
+2025-07,PROD-075,Micro USB Cable 1m,52,1.5
+2025-07,PROD-076,Alligator Clip Test Leads (10pcs),68,2.5
+2025-07,PROD-077,Perfboard Prototype PCB 9x15cm,55,1.2
+2025-07,PROD-078,LCD 1602 Display with I2C,61,3.5
+2025-07,PROD-079,LCD 2004 Character Display I2C,59,6.0
+2025-07,PROD-080,OLED Display 0.96 inch I2C,139,4.0
+2025-07,PROD-081,7-Segment Display 4-Digit,56,1.7999999999999998
+2025-07,PROD-082,8x8 LED Dot Matrix MAX7219,111,2.5
+2025-07,PROD-083,NeoPixel LED Ring 16-Bit RGB,122,4.5
+2025-07,PROD-084,DC Power Jack Female Panel,58,0.4
+2025-07,PROD-085,DC Power Jack Male Connector,107,0.4
+2025-07,PROD-086,40-Pin Male Header Strip (5pcs),107,0.8
+2025-07,PROD-087,40-Pin Female Header Strip (5pcs),154,1.0
+2025-07,PROD-088,SPDT Toggle Switch Mini,66,0.6
+2025-07,PROD-089,Rocker Switch KCD1 On/Off,81,0.5
+2025-07,PROD-090,Screw Terminal Block 2-Pin (10pc),45,1.5
+2025-07,PROD-091,Banana Plug Red/Black Pair,64,1.2
+2025-07,PROD-092,HC-05 Bluetooth Serial Module,61,4.5
+2025-07,PROD-093,NRF24L01 Wireless 2.4G Module,48,2.0
+2025-07,PROD-094,SIM800L GPRS GSM Module,62,8.5
+2025-07,PROD-095,NEO-6M GPS Module with Antenna,66,12.0
+2025-07,PROD-096,ESP32-CAM Module with Camera,67,8.0
+2025-07,PROD-097,MP3 YX5300 Serial Sound Module,62,3.5
+2025-07,PROD-098,SD Card Reader Module SPI,49,1.5
+2025-07,PROD-099,DS3231 High Precision RTC Module,60,2.8
+2025-07,PROD-100,Smart Car Chassis 2WD Kit,116,14.0
+2025-07,PROD-101,Robot Gripper Mechanical Arm,51,9.0
+2025-07,PROD-102,Omni Directional Wheel 50mm,66,5.0
+2025-07,PROD-103,DC Geared Motor with Wheel,68,2.5
+2025-07,PROD-104,Metal Ball Caster Wheel,70,1.2
+2025-07,PROD-105,74HC595 8-Bit Shift Register,72,0.5
+2025-07,PROD-106,74HC138 3-to-8 Line Decoder,79,0.5
+2025-07,PROD-107,MAX232 RS232 to TTL Converter,60,1.0
+2025-07,PROD-108,L293D Quad Motor Driver IC,71,1.2
+2025-07,PROD-109,PC817 Optocoupler IC,62,0.3
+2025-08,PROD-001,Arduino Uno R3,62,7.5
+2025-08,PROD-002,Arduino Nano,52,5.0
+2025-08,PROD-003,Arduino Mega 2560,53,14.0
+2025-08,PROD-004,Raspberry Pi 4 (4GB),44,45.0
+2025-08,PROD-005,Raspberry Pi 5 (8GB),41,75.0
+2025-08,PROD-006,Raspberry Pi Pico,38,4.5
+2025-08,PROD-007,ESP32 NodeMCU WiFi+BT,54,6.0
+2025-08,PROD-008,ESP8266 NodeMCU,42,4.0
+2025-08,PROD-009,STM32 Blue Pill,50,3.5
+2025-08,PROD-010,Teensy 4.0,69,28.0
+2025-08,PROD-011,Ultrasonic Sensor HC-SR04,61,1.8
+2025-08,PROD-012,IR Obstacle Sensor,52,1.0
+2025-08,PROD-013,DHT11 Temp/Humidity Sensor,54,1.5
+2025-08,PROD-014,DHT22 Precision Temp Sensor,73,3.8
+2025-08,PROD-015,PIR Motion Sensor,53,2.2
+2025-08,PROD-016,LDR Light Sensor Module,34,1.2
+2025-08,PROD-017,Soil Moisture Sensor,54,1.5
+2025-08,PROD-018,MQ-2 Smoke/Gas Sensor,62,2.5
+2025-08,PROD-019,MQ-7 Carbon Monoxide Sensor,78,3.0
+2025-08,PROD-020,MPU6050 Gyro/Accel Module,51,3.2
+2025-08,PROD-021,Rain Drops Sensor Module,67,1.4
+2025-08,PROD-022,Water Level Sensor,50,1.1
+2025-08,PROD-023,TCS3200 Color Sensor,55,4.5
+2025-08,PROD-024,RFID RC522 Module with Card,55,3.5
+2025-08,PROD-025,Pulse Oximeter Heart Rate Module,59,6.0
+2025-08,PROD-026,Servo Motor SG90,48,2.0
+2025-08,PROD-027,Servo Motor MG996R Metal,71,6.5
+2025-08,PROD-028,Stepper Motor Nema 17,61,12.5
+2025-08,PROD-029,DC Toy Motor 3V-6V,59,0.8
+2025-08,PROD-030,L298N Dual Motor Driver,40,2.8
+2025-08,PROD-031,ULN2003 Stepper Driver Module,66,1.5
+2025-08,PROD-032,5V Relay Module 1-Channel,76,1.2
+2025-08,PROD-033,5V Relay Module 4-Channel,50,3.5
+2025-08,PROD-034,Solenoid Lock 12V,74,8.5
+2025-08,PROD-035,Active Buzzer 5V,60,0.5
+2025-08,PROD-036,Resistor Pack (100 pcs),76,1.2
+2025-08,PROD-037,Electrolytic Capacitor Kit,155,4.0
+2025-08,PROD-038,Ceramic Capacitor Kit,97,3.0
+2025-08,PROD-039,LED Assortment (50 pcs),133,1.5
+2025-08,PROD-040,1N4007 Rectifier Diode (10 pcs),54,0.5
+2025-08,PROD-041,Zener Diode Kit,136,3.5
+2025-08,PROD-042,2N2222 NPN Transistor (10 pcs),54,0.8
+2025-08,PROD-043,IRF540N MOSFET Power,69,1.0
+2025-08,PROD-044,NE555 Timer IC,56,0.6
+2025-08,PROD-045,LM358 Dual Op-Amp IC,68,0.5
+2025-08,PROD-046,Potentiometer 10k,67,0.7
+2025-08,PROD-047,Tactile Push Button (10pcs),73,0.8
+2025-08,PROD-048,Soldering Iron 60W Adjustable,43,8.0
+2025-08,PROD-049,Digital Multimeter DT830B,38,12.0
+2025-08,PROD-050,Solder Wire Reel 100g,74,3.5
+2025-08,PROD-051,Soldering Iron Stand,70,2.5
+2025-08,PROD-052,Solder Sucker Desoldering Pump,66,2.0
+2025-08,PROD-053,Wire Stripper & Cutter,68,4.5
+2025-08,PROD-054,Tweezers Anti-static Set (3pcs),62,3.0
+2025-08,PROD-055,Hot Glue Gun 40W,67,6.0
+2025-08,PROD-056,Digital Vernier Caliper,44,15.0
+2025-08,PROD-057,Heat Shrink Tube Kit,69,3.8
+2025-08,PROD-058,Heavy Duty 9V Battery,54,1.5
+2025-08,PROD-059,AA Battery Pack (4pcs),88,2.0
+2025-08,PROD-060,18650 Li-ion Battery 2500mAh,51,3.5
+2025-08,PROD-061,Dual 18650 Battery Charger,63,4.5
+2025-08,PROD-062,TP4056 Li-ion Charging Module,59,0.6
+2025-08,PROD-063,MB102 Breadboard Power Module,53,1.8
+2025-08,PROD-064,12V 2A Power Adapter DC,65,5.0
+2025-08,PROD-065,5V 3A USB-C Power Adapter,60,6.5
+2025-08,PROD-066,LM2596 DC-DC Buck Converter,52,1.6
+2025-08,PROD-067,XL6009 DC-DC Boost Converter,57,1.8000000000000003
+2025-08,PROD-068,Breadboard Full Size (Large),49,2.5
+2025-08,PROD-069,Breadboard Half Size (Mini),44,1.0
+2025-08,PROD-070,Jumper Wires M-M (40pcs),101,1.0
+2025-08,PROD-071,Jumper Wires M-F (40pcs),122,1.0
+2025-08,PROD-072,Jumper Wires F-F (40pcs),160,1.0
+2025-08,PROD-073,USB Cable Type-B for Arduino,60,1.5
+2025-08,PROD-074,USB-C Data Cable 1m,69,2.0
+2025-08,PROD-075,Micro USB Cable 1m,66,1.5
+2025-08,PROD-076,Alligator Clip Test Leads (10pcs),52,2.5
+2025-08,PROD-077,Perfboard Prototype PCB 9x15cm,59,1.2
+2025-08,PROD-078,LCD 1602 Display with I2C,41,3.5
+2025-08,PROD-079,LCD 2004 Character Display I2C,83,6.0
+2025-08,PROD-080,OLED Display 0.96 inch I2C,121,4.0
+2025-08,PROD-081,7-Segment Display 4-Digit,71,1.8000000000000003
+2025-08,PROD-082,8x8 LED Dot Matrix MAX7219,163,2.5
+2025-08,PROD-083,NeoPixel LED Ring 16-Bit RGB,146,4.5
+2025-08,PROD-084,DC Power Jack Female Panel,53,0.4
+2025-08,PROD-085,DC Power Jack Male Connector,116,0.4000000000000001
+2025-08,PROD-086,40-Pin Male Header Strip (5pcs),142,0.8
+2025-08,PROD-087,40-Pin Female Header Strip (5pcs),96,1.0
+2025-08,PROD-088,SPDT Toggle Switch Mini,64,0.6
+2025-08,PROD-089,Rocker Switch KCD1 On/Off,55,0.5
+2025-08,PROD-090,Screw Terminal Block 2-Pin (10pc),54,1.5
+2025-08,PROD-091,Banana Plug Red/Black Pair,68,1.2
+2025-08,PROD-092,HC-05 Bluetooth Serial Module,46,4.5
+2025-08,PROD-093,NRF24L01 Wireless 2.4G Module,61,2.0
+2025-08,PROD-094,SIM800L GPRS GSM Module,55,8.5
+2025-08,PROD-095,NEO-6M GPS Module with Antenna,39,12.0
+2025-08,PROD-096,ESP32-CAM Module with Camera,63,8.0
+2025-08,PROD-097,MP3 YX5300 Serial Sound Module,42,3.5
+2025-08,PROD-098,SD Card Reader Module SPI,55,1.5
+2025-08,PROD-099,DS3231 High Precision RTC Module,54,2.8
+2025-08,PROD-100,Smart Car Chassis 2WD Kit,85,14.0
+2025-08,PROD-101,Robot Gripper Mechanical Arm,66,9.0
+2025-08,PROD-102,Omni Directional Wheel 50mm,50,5.0
+2025-08,PROD-103,DC Geared Motor with Wheel,60,2.5
+2025-08,PROD-104,Metal Ball Caster Wheel,46,1.2
+2025-08,PROD-105,74HC595 8-Bit Shift Register,56,0.5
+2025-08,PROD-106,74HC138 3-to-8 Line Decoder,71,0.5
+2025-08,PROD-107,MAX232 RS232 to TTL Converter,50,1.0
+2025-08,PROD-108,L293D Quad Motor Driver IC,69,1.2
+2025-08,PROD-109,PC817 Optocoupler IC,55,0.3
+2025-09,PROD-001,Arduino Uno R3,45,7.5
+2025-09,PROD-002,Arduino Nano,56,5.0
+2025-09,PROD-003,Arduino Mega 2560,54,14.0
+2025-09,PROD-004,Raspberry Pi 4 (4GB),42,45.0
+2025-09,PROD-005,Raspberry Pi 5 (8GB),33,75.0
+2025-09,PROD-006,Raspberry Pi Pico,34,4.5
+2025-09,PROD-007,ESP32 NodeMCU WiFi+BT,55,6.0
+2025-09,PROD-008,ESP8266 NodeMCU,67,4.0
+2025-09,PROD-009,STM32 Blue Pill,50,3.5
+2025-09,PROD-010,Teensy 4.0,59,28.0
+2025-09,PROD-011,Ultrasonic Sensor HC-SR04,55,1.8
+2025-09,PROD-012,IR Obstacle Sensor,50,1.0
+2025-09,PROD-013,DHT11 Temp/Humidity Sensor,45,1.5
+2025-09,PROD-014,DHT22 Precision Temp Sensor,50,3.8
+2025-09,PROD-015,PIR Motion Sensor,68,2.2
+2025-09,PROD-016,LDR Light Sensor Module,49,1.2
+2025-09,PROD-017,Soil Moisture Sensor,48,1.5
+2025-09,PROD-018,MQ-2 Smoke/Gas Sensor,57,2.5
+2025-09,PROD-019,MQ-7 Carbon Monoxide Sensor,60,3.0
+2025-09,PROD-020,MPU6050 Gyro/Accel Module,44,3.2
+2025-09,PROD-021,Rain Drops Sensor Module,55,1.4
+2025-09,PROD-022,Water Level Sensor,61,1.1
+2025-09,PROD-023,TCS3200 Color Sensor,58,4.5
+2025-09,PROD-024,RFID RC522 Module with Card,79,3.5
+2025-09,PROD-025,Pulse Oximeter Heart Rate Module,66,6.0
+2025-09,PROD-026,Servo Motor SG90,49,2.0
+2025-09,PROD-027,Servo Motor MG996R Metal,42,6.5
+2025-09,PROD-028,Stepper Motor Nema 17,59,12.5
+2025-09,PROD-029,DC Toy Motor 3V-6V,47,0.8
+2025-09,PROD-030,L298N Dual Motor Driver,79,2.8
+2025-09,PROD-031,ULN2003 Stepper Driver Module,71,1.5
+2025-09,PROD-032,5V Relay Module 1-Channel,67,1.2
+2025-09,PROD-033,5V Relay Module 4-Channel,39,3.5
+2025-09,PROD-034,Solenoid Lock 12V,69,8.5
+2025-09,PROD-035,Active Buzzer 5V,54,0.5
+2025-09,PROD-036,Resistor Pack (100 pcs),115,1.2
+2025-09,PROD-037,Electrolytic Capacitor Kit,107,4.0
+2025-09,PROD-038,Ceramic Capacitor Kit,139,3.0
+2025-09,PROD-039,LED Assortment (50 pcs),114,1.5
+2025-09,PROD-040,1N4007 Rectifier Diode (10 pcs),42,0.5
+2025-09,PROD-041,Zener Diode Kit,76,3.5
+2025-09,PROD-042,2N2222 NPN Transistor (10 pcs),67,0.8
+2025-09,PROD-043,IRF540N MOSFET Power,54,1.0
+2025-09,PROD-044,NE555 Timer IC,59,0.6
+2025-09,PROD-045,LM358 Dual Op-Amp IC,52,0.5
+2025-09,PROD-046,Potentiometer 10k,58,0.7
+2025-09,PROD-047,Tactile Push Button (10pcs),62,0.8
+2025-09,PROD-048,Soldering Iron 60W Adjustable,48,8.0
+2025-09,PROD-049,Digital Multimeter DT830B,41,12.0
+2025-09,PROD-050,Solder Wire Reel 100g,60,3.5
+2025-09,PROD-051,Soldering Iron Stand,56,2.5
+2025-09,PROD-052,Solder Sucker Desoldering Pump,53,2.0
+2025-09,PROD-053,Wire Stripper & Cutter,59,4.5
+2025-09,PROD-054,Tweezers Anti-static Set (3pcs),71,3.0
+2025-09,PROD-055,Hot Glue Gun 40W,51,6.0
+2025-09,PROD-056,Digital Vernier Caliper,51,15.0
+2025-09,PROD-057,Heat Shrink Tube Kit,110,3.8
+2025-09,PROD-058,Heavy Duty 9V Battery,49,1.5
+2025-09,PROD-059,AA Battery Pack (4pcs),140,2.0
+2025-09,PROD-060,18650 Li-ion Battery 2500mAh,58,3.5
+2025-09,PROD-061,Dual 18650 Battery Charger,51,4.5
+2025-09,PROD-062,TP4056 Li-ion Charging Module,54,0.6
+2025-09,PROD-063,MB102 Breadboard Power Module,58,1.8000000000000003
+2025-09,PROD-064,12V 2A Power Adapter DC,50,5.0
+2025-09,PROD-065,5V 3A USB-C Power Adapter,72,6.5
+2025-09,PROD-066,LM2596 DC-DC Buck Converter,73,1.6
+2025-09,PROD-067,XL6009 DC-DC Boost Converter,49,1.8000000000000003
+2025-09,PROD-068,Breadboard Full Size (Large),70,2.5
+2025-09,PROD-069,Breadboard Half Size (Mini),96,1.0
+2025-09,PROD-070,Jumper Wires M-M (40pcs),98,1.0
+2025-09,PROD-071,Jumper Wires M-F (40pcs),133,1.0
+2025-09,PROD-072,Jumper Wires F-F (40pcs),115,1.0
+2025-09,PROD-073,USB Cable Type-B for Arduino,63,1.5
+2025-09,PROD-074,USB-C Data Cable 1m,47,2.0
+2025-09,PROD-075,Micro USB Cable 1m,68,1.5
+2025-09,PROD-076,Alligator Clip Test Leads (10pcs),55,2.5
+2025-09,PROD-077,Perfboard Prototype PCB 9x15cm,60,1.2
+2025-09,PROD-078,LCD 1602 Display with I2C,63,3.5
+2025-09,PROD-079,LCD 2004 Character Display I2C,47,6.0
+2025-09,PROD-080,OLED Display 0.96 inch I2C,153,4.0
+2025-09,PROD-081,7-Segment Display 4-Digit,58,1.8
+2025-09,PROD-082,8x8 LED Dot Matrix MAX7219,119,2.5
+2025-09,PROD-083,NeoPixel LED Ring 16-Bit RGB,133,4.5
+2025-09,PROD-084,DC Power Jack Female Panel,55,0.4000000000000001
+2025-09,PROD-085,DC Power Jack Male Connector,118,0.39999999999999997
+2025-09,PROD-086,40-Pin Male Header Strip (5pcs),109,0.8
+2025-09,PROD-087,40-Pin Female Header Strip (5pcs),120,1.0
+2025-09,PROD-088,SPDT Toggle Switch Mini,58,0.6
+2025-09,PROD-089,Rocker Switch KCD1 On/Off,50,0.5
+2025-09,PROD-090,Screw Terminal Block 2-Pin (10pc),43,1.5
+2025-09,PROD-091,Banana Plug Red/Black Pair,65,1.2
+2025-09,PROD-092,HC-05 Bluetooth Serial Module,67,4.5
+2025-09,PROD-093,NRF24L01 Wireless 2.4G Module,75,2.0
+2025-09,PROD-094,SIM800L GPRS GSM Module,62,8.5
+2025-09,PROD-095,NEO-6M GPS Module with Antenna,59,12.0
+2025-09,PROD-096,ESP32-CAM Module with Camera,41,8.0
+2025-09,PROD-097,MP3 YX5300 Serial Sound Module,51,3.5
+2025-09,PROD-098,SD Card Reader Module SPI,61,1.5
+2025-09,PROD-099,DS3231 High Precision RTC Module,62,2.8
+2025-09,PROD-100,Smart Car Chassis 2WD Kit,108,14.0
+2025-09,PROD-101,Robot Gripper Mechanical Arm,56,9.0
+2025-09,PROD-102,Omni Directional Wheel 50mm,50,5.0
+2025-09,PROD-103,DC Geared Motor with Wheel,53,2.5
+2025-09,PROD-104,Metal Ball Caster Wheel,74,1.2
+2025-09,PROD-105,74HC595 8-Bit Shift Register,58,0.5
+2025-09,PROD-106,74HC138 3-to-8 Line Decoder,49,0.5
+2025-09,PROD-107,MAX232 RS232 to TTL Converter,50,1.0
+2025-09,PROD-108,L293D Quad Motor Driver IC,52,1.2
+2025-09,PROD-109,PC817 Optocoupler IC,48,0.3
+2025-10,PROD-001,Arduino Uno R3,61,7.5
+2025-10,PROD-002,Arduino Nano,64,5.0
+2025-10,PROD-003,Arduino Mega 2560,58,14.0
+2025-10,PROD-004,Raspberry Pi 4 (4GB),47,45.0
+2025-10,PROD-005,Raspberry Pi 5 (8GB),44,75.0
+2025-10,PROD-006,Raspberry Pi Pico,53,4.5
+2025-10,PROD-007,ESP32 NodeMCU WiFi+BT,59,6.0
+2025-10,PROD-008,ESP8266 NodeMCU,44,4.0
+2025-10,PROD-009,STM32 Blue Pill,57,3.5
+2025-10,PROD-010,Teensy 4.0,41,28.0
+2025-10,PROD-011,Ultrasonic Sensor HC-SR04,55,1.8000000000000003
+2025-10,PROD-012,IR Obstacle Sensor,48,1.0
+2025-10,PROD-013,DHT11 Temp/Humidity Sensor,54,1.5
+2025-10,PROD-014,DHT22 Precision Temp Sensor,58,3.8
+2025-10,PROD-015,PIR Motion Sensor,56,2.2
+2025-10,PROD-016,LDR Light Sensor Module,54,1.2
+2025-10,PROD-017,Soil Moisture Sensor,57,1.5
+2025-10,PROD-018,MQ-2 Smoke/Gas Sensor,58,2.5
+2025-10,PROD-019,MQ-7 Carbon Monoxide Sensor,58,3.0
+2025-10,PROD-020,MPU6050 Gyro/Accel Module,64,3.2
+2025-10,PROD-021,Rain Drops Sensor Module,46,1.4
+2025-10,PROD-022,Water Level Sensor,62,1.1
+2025-10,PROD-023,TCS3200 Color Sensor,63,4.5
+2025-10,PROD-024,RFID RC522 Module with Card,50,3.5
+2025-10,PROD-025,Pulse Oximeter Heart Rate Module,49,6.0
+2025-10,PROD-026,Servo Motor SG90,70,2.0
+2025-10,PROD-027,Servo Motor MG996R Metal,50,6.5
+2025-10,PROD-028,Stepper Motor Nema 17,57,12.5
+2025-10,PROD-029,DC Toy Motor 3V-6V,41,0.8
+2025-10,PROD-030,L298N Dual Motor Driver,54,2.8
+2025-10,PROD-031,ULN2003 Stepper Driver Module,55,1.5
+2025-10,PROD-032,5V Relay Module 1-Channel,49,1.2
+2025-10,PROD-033,5V Relay Module 4-Channel,45,3.5
+2025-10,PROD-034,Solenoid Lock 12V,59,8.5
+2025-10,PROD-035,Active Buzzer 5V,42,0.5
+2025-10,PROD-036,Resistor Pack (100 pcs),90,1.2
+2025-10,PROD-037,Electrolytic Capacitor Kit,88,4.0
+2025-10,PROD-038,Ceramic Capacitor Kit,120,3.0
+2025-10,PROD-039,LED Assortment (50 pcs),101,1.5
+2025-10,PROD-040,1N4007 Rectifier Diode (10 pcs),49,0.5
+2025-10,PROD-041,Zener Diode Kit,129,3.5
+2025-10,PROD-042,2N2222 NPN Transistor (10 pcs),53,0.8
+2025-10,PROD-043,IRF540N MOSFET Power,53,1.0
+2025-10,PROD-044,NE555 Timer IC,57,0.6
+2025-10,PROD-045,LM358 Dual Op-Amp IC,56,0.5
+2025-10,PROD-046,Potentiometer 10k,56,0.7
+2025-10,PROD-047,Tactile Push Button (10pcs),79,0.8
+2025-10,PROD-048,Soldering Iron 60W Adjustable,59,8.0
+2025-10,PROD-049,Digital Multimeter DT830B,32,12.0
+2025-10,PROD-050,Solder Wire Reel 100g,83,3.5
+2025-10,PROD-051,Soldering Iron Stand,49,2.5
+2025-10,PROD-052,Solder Sucker Desoldering Pump,49,2.0
+2025-10,PROD-053,Wire Stripper & Cutter,50,4.5
+2025-10,PROD-054,Tweezers Anti-static Set (3pcs),51,3.0
+2025-10,PROD-055,Hot Glue Gun 40W,50,6.0
+2025-10,PROD-056,Digital Vernier Caliper,36,15.0
+2025-10,PROD-057,Heat Shrink Tube Kit,91,3.8
+2025-10,PROD-058,Heavy Duty 9V Battery,41,1.5
+2025-10,PROD-059,AA Battery Pack (4pcs),106,2.0
+2025-10,PROD-060,18650 Li-ion Battery 2500mAh,58,3.5
+2025-10,PROD-061,Dual 18650 Battery Charger,58,4.5
+2025-10,PROD-062,TP4056 Li-ion Charging Module,66,0.6
+2025-10,PROD-063,MB102 Breadboard Power Module,55,1.8
+2025-10,PROD-064,12V 2A Power Adapter DC,61,5.0
+2025-10,PROD-065,5V 3A USB-C Power Adapter,54,6.5
+2025-10,PROD-066,LM2596 DC-DC Buck Converter,46,1.6
+2025-10,PROD-067,XL6009 DC-DC Boost Converter,60,1.8000000000000003
+2025-10,PROD-068,Breadboard Full Size (Large),74,2.5
+2025-10,PROD-069,Breadboard Half Size (Mini),52,1.0
+2025-10,PROD-070,Jumper Wires M-M (40pcs),93,1.0
+2025-10,PROD-071,Jumper Wires M-F (40pcs),109,1.0
+2025-10,PROD-072,Jumper Wires F-F (40pcs),58,1.0
+2025-10,PROD-073,USB Cable Type-B for Arduino,51,1.5
+2025-10,PROD-074,USB-C Data Cable 1m,64,2.0
+2025-10,PROD-075,Micro USB Cable 1m,61,1.5
+2025-10,PROD-076,Alligator Clip Test Leads (10pcs),45,2.5
+2025-10,PROD-077,Perfboard Prototype PCB 9x15cm,59,1.2
+2025-10,PROD-078,LCD 1602 Display with I2C,50,3.5
+2025-10,PROD-079,LCD 2004 Character Display I2C,55,6.0
+2025-10,PROD-080,OLED Display 0.96 inch I2C,125,4.0
+2025-10,PROD-081,7-Segment Display 4-Digit,65,1.8000000000000003
+2025-10,PROD-082,8x8 LED Dot Matrix MAX7219,116,2.5
+2025-10,PROD-083,NeoPixel LED Ring 16-Bit RGB,103,4.5
+2025-10,PROD-084,DC Power Jack Female Panel,59,0.4
+2025-10,PROD-085,DC Power Jack Male Connector,96,0.4
+2025-10,PROD-086,40-Pin Male Header Strip (5pcs),102,0.8
+2025-10,PROD-087,40-Pin Female Header Strip (5pcs),107,1.0
+2025-10,PROD-088,SPDT Toggle Switch Mini,68,0.6
+2025-10,PROD-089,Rocker Switch KCD1 On/Off,77,0.5
+2025-10,PROD-090,Screw Terminal Block 2-Pin (10pc),51,1.5
+2025-10,PROD-091,Banana Plug Red/Black Pair,53,1.2
+2025-10,PROD-092,HC-05 Bluetooth Serial Module,43,4.5
+2025-10,PROD-093,NRF24L01 Wireless 2.4G Module,50,2.0
+2025-10,PROD-094,SIM800L GPRS GSM Module,65,8.5
+2025-10,PROD-095,NEO-6M GPS Module with Antenna,55,12.0
+2025-10,PROD-096,ESP32-CAM Module with Camera,55,8.0
+2025-10,PROD-097,MP3 YX5300 Serial Sound Module,67,3.5
+2025-10,PROD-098,SD Card Reader Module SPI,56,1.5
+2025-10,PROD-099,DS3231 High Precision RTC Module,45,2.8
+2025-10,PROD-100,Smart Car Chassis 2WD Kit,87,14.0
+2025-10,PROD-101,Robot Gripper Mechanical Arm,57,9.0
+2025-10,PROD-102,Omni Directional Wheel 50mm,40,5.0
+2025-10,PROD-103,DC Geared Motor with Wheel,45,2.5
+2025-10,PROD-104,Metal Ball Caster Wheel,69,1.2
+2025-10,PROD-105,74HC595 8-Bit Shift Register,51,0.5
+2025-10,PROD-106,74HC138 3-to-8 Line Decoder,56,0.5
+2025-10,PROD-107,MAX232 RS232 to TTL Converter,64,1.0
+2025-10,PROD-108,L293D Quad Motor Driver IC,48,1.2
+2025-10,PROD-109,PC817 Optocoupler IC,56,0.3
+2025-11,PROD-001,Arduino Uno R3,72,7.5
+2025-11,PROD-002,Arduino Nano,66,5.0
+2025-11,PROD-003,Arduino Mega 2560,49,14.0
+2025-11,PROD-004,Raspberry Pi 4 (4GB),42,45.0
+2025-11,PROD-005,Raspberry Pi 5 (8GB),44,75.0
+2025-11,PROD-006,Raspberry Pi Pico,35,4.5
+2025-11,PROD-007,ESP32 NodeMCU WiFi+BT,58,6.0
+2025-11,PROD-008,ESP8266 NodeMCU,54,4.0
+2025-11,PROD-009,STM32 Blue Pill,56,3.5
+2025-11,PROD-010,Teensy 4.0,59,28.0
+2025-11,PROD-011,Ultrasonic Sensor HC-SR04,47,1.8
+2025-11,PROD-012,IR Obstacle Sensor,73,1.0
+2025-11,PROD-013,DHT11 Temp/Humidity Sensor,83,1.5
+2025-11,PROD-014,DHT22 Precision Temp Sensor,69,3.7999999999999994
+2025-11,PROD-015,PIR Motion Sensor,54,2.2
+2025-11,PROD-016,LDR Light Sensor Module,77,1.2
+2025-11,PROD-017,Soil Moisture Sensor,59,1.5
+2025-11,PROD-018,MQ-2 Smoke/Gas Sensor,57,2.5
+2025-11,PROD-019,MQ-7 Carbon Monoxide Sensor,49,3.0
+2025-11,PROD-020,MPU6050 Gyro/Accel Module,62,3.1999999999999997
+2025-11,PROD-021,Rain Drops Sensor Module,74,1.4
+2025-11,PROD-022,Water Level Sensor,81,1.1
+2025-11,PROD-023,TCS3200 Color Sensor,61,4.5
+2025-11,PROD-024,RFID RC522 Module with Card,85,3.5
+2025-11,PROD-025,Pulse Oximeter Heart Rate Module,57,6.0
+2025-11,PROD-026,Servo Motor SG90,67,2.0
+2025-11,PROD-027,Servo Motor MG996R Metal,47,6.5
+2025-11,PROD-028,Stepper Motor Nema 17,72,12.5
+2025-11,PROD-029,DC Toy Motor 3V-6V,50,0.8
+2025-11,PROD-030,L298N Dual Motor Driver,55,2.8
+2025-11,PROD-031,ULN2003 Stepper Driver Module,49,1.5
+2025-11,PROD-032,5V Relay Module 1-Channel,53,1.2
+2025-11,PROD-033,5V Relay Module 4-Channel,62,3.5
+2025-11,PROD-034,Solenoid Lock 12V,70,8.5
+2025-11,PROD-035,Active Buzzer 5V,77,0.5
+2025-11,PROD-036,Resistor Pack (100 pcs),109,1.2
+2025-11,PROD-037,Electrolytic Capacitor Kit,134,4.0
+2025-11,PROD-038,Ceramic Capacitor Kit,98,3.0
+2025-11,PROD-039,LED Assortment (50 pcs),101,1.5
+2025-11,PROD-040,1N4007 Rectifier Diode (10 pcs),55,0.5
+2025-11,PROD-041,Zener Diode Kit,138,3.5
+2025-11,PROD-042,2N2222 NPN Transistor (10 pcs),62,0.8
+2025-11,PROD-043,IRF540N MOSFET Power,62,1.0
+2025-11,PROD-044,NE555 Timer IC,77,0.6
+2025-11,PROD-045,LM358 Dual Op-Amp IC,59,0.5
+2025-11,PROD-046,Potentiometer 10k,58,0.7
+2025-11,PROD-047,Tactile Push Button (10pcs),59,0.8
+2025-11,PROD-048,Soldering Iron 60W Adjustable,52,8.0
+2025-11,PROD-049,Digital Multimeter DT830B,55,12.0
+2025-11,PROD-050,Solder Wire Reel 100g,69,3.5
+2025-11,PROD-051,Soldering Iron Stand,61,2.5
+2025-11,PROD-052,Solder Sucker Desoldering Pump,76,2.0
+2025-11,PROD-053,Wire Stripper & Cutter,61,4.5
+2025-11,PROD-054,Tweezers Anti-static Set (3pcs),71,3.0
+2025-11,PROD-055,Hot Glue Gun 40W,62,6.0
+2025-11,PROD-056,Digital Vernier Caliper,43,15.0
+2025-11,PROD-057,Heat Shrink Tube Kit,106,3.8
+2025-11,PROD-058,Heavy Duty 9V Battery,50,1.5
+2025-11,PROD-059,AA Battery Pack (4pcs),77,2.0
+2025-11,PROD-060,18650 Li-ion Battery 2500mAh,56,3.5
+2025-11,PROD-061,Dual 18650 Battery Charger,72,4.5
+2025-11,PROD-062,TP4056 Li-ion Charging Module,64,0.6
+2025-11,PROD-063,MB102 Breadboard Power Module,53,1.8
+2025-11,PROD-064,12V 2A Power Adapter DC,49,5.0
+2025-11,PROD-065,5V 3A USB-C Power Adapter,50,6.5
+2025-11,PROD-066,LM2596 DC-DC Buck Converter,53,1.6
+2025-11,PROD-067,XL6009 DC-DC Boost Converter,56,1.8
+2025-11,PROD-068,Breadboard Full Size (Large),65,2.5
+2025-11,PROD-069,Breadboard Half Size (Mini),53,1.0
+2025-11,PROD-070,Jumper Wires M-M (40pcs),138,1.0
+2025-11,PROD-071,Jumper Wires M-F (40pcs),94,1.0
+2025-11,PROD-072,Jumper Wires F-F (40pcs),102,1.0
+2025-11,PROD-073,USB Cable Type-B for Arduino,57,1.5
+2025-11,PROD-074,USB-C Data Cable 1m,53,2.0
+2025-11,PROD-075,Micro USB Cable 1m,63,1.5
+2025-11,PROD-076,Alligator Clip Test Leads (10pcs),52,2.5
+2025-11,PROD-077,Perfboard Prototype PCB 9x15cm,71,1.2
+2025-11,PROD-078,LCD 1602 Display with I2C,72,3.5
+2025-11,PROD-079,LCD 2004 Character Display I2C,51,6.0
+2025-11,PROD-080,OLED Display 0.96 inch I2C,87,4.0
+2025-11,PROD-081,7-Segment Display 4-Digit,55,1.7999999999999998
+2025-11,PROD-082,8x8 LED Dot Matrix MAX7219,154,2.5
+2025-11,PROD-083,NeoPixel LED Ring 16-Bit RGB,137,4.5
+2025-11,PROD-084,DC Power Jack Female Panel,42,0.4
+2025-11,PROD-085,DC Power Jack Male Connector,111,0.4
+2025-11,PROD-086,40-Pin Male Header Strip (5pcs),135,0.8
+2025-11,PROD-087,40-Pin Female Header Strip (5pcs),125,1.0
+2025-11,PROD-088,SPDT Toggle Switch Mini,73,0.6
+2025-11,PROD-089,Rocker Switch KCD1 On/Off,81,0.5
+2025-11,PROD-090,Screw Terminal Block 2-Pin (10pc),41,1.5
+2025-11,PROD-091,Banana Plug Red/Black Pair,71,1.2
+2025-11,PROD-092,HC-05 Bluetooth Serial Module,51,4.5
+2025-11,PROD-093,NRF24L01 Wireless 2.4G Module,80,2.0
+2025-11,PROD-094,SIM800L GPRS GSM Module,47,8.5
+2025-11,PROD-095,NEO-6M GPS Module with Antenna,53,12.0
+2025-11,PROD-096,ESP32-CAM Module with Camera,58,8.0
+2025-11,PROD-097,MP3 YX5300 Serial Sound Module,84,3.5
+2025-11,PROD-098,SD Card Reader Module SPI,60,1.5
+2025-11,PROD-099,DS3231 High Precision RTC Module,40,2.8
+2025-11,PROD-100,Smart Car Chassis 2WD Kit,97,14.0
+2025-11,PROD-101,Robot Gripper Mechanical Arm,94,9.0
+2025-11,PROD-102,Omni Directional Wheel 50mm,57,5.0
+2025-11,PROD-103,DC Geared Motor with Wheel,64,2.5
+2025-11,PROD-104,Metal Ball Caster Wheel,65,1.2
+2025-11,PROD-105,74HC595 8-Bit Shift Register,64,0.5
+2025-11,PROD-106,74HC138 3-to-8 Line Decoder,65,0.5
+2025-11,PROD-107,MAX232 RS232 to TTL Converter,51,1.0
+2025-11,PROD-108,L293D Quad Motor Driver IC,62,1.2
+2025-11,PROD-109,PC817 Optocoupler IC,70,0.3
+2025-12,PROD-001,Arduino Uno R3,53,7.5
+2025-12,PROD-002,Arduino Nano,72,5.0
+2025-12,PROD-003,Arduino Mega 2560,68,14.0
+2025-12,PROD-004,Raspberry Pi 4 (4GB),53,45.0
+2025-12,PROD-005,Raspberry Pi 5 (8GB),42,75.0
+2025-12,PROD-006,Raspberry Pi Pico,43,4.5
+2025-12,PROD-007,ESP32 NodeMCU WiFi+BT,49,6.0
+2025-12,PROD-008,ESP8266 NodeMCU,60,4.0
+2025-12,PROD-009,STM32 Blue Pill,70,3.5
+2025-12,PROD-010,Teensy 4.0,56,28.0
+2025-12,PROD-011,Ultrasonic Sensor HC-SR04,73,1.8
+2025-12,PROD-012,IR Obstacle Sensor,53,1.0
+2025-12,PROD-013,DHT11 Temp/Humidity Sensor,73,1.5
+2025-12,PROD-014,DHT22 Precision Temp Sensor,71,3.8
+2025-12,PROD-015,PIR Motion Sensor,64,2.2
+2025-12,PROD-016,LDR Light Sensor Module,52,1.2
+2025-12,PROD-017,Soil Moisture Sensor,62,1.5
+2025-12,PROD-018,MQ-2 Smoke/Gas Sensor,60,2.5
+2025-12,PROD-019,MQ-7 Carbon Monoxide Sensor,75,3.0
+2025-12,PROD-020,MPU6050 Gyro/Accel Module,64,3.1999999999999997
+2025-12,PROD-021,Rain Drops Sensor Module,70,1.4
+2025-12,PROD-022,Water Level Sensor,48,1.1
+2025-12,PROD-023,TCS3200 Color Sensor,71,4.5
+2025-12,PROD-024,RFID RC522 Module with Card,63,3.5
+2025-12,PROD-025,Pulse Oximeter Heart Rate Module,62,6.0
+2025-12,PROD-026,Servo Motor SG90,52,2.0
+2025-12,PROD-027,Servo Motor MG996R Metal,63,6.5
+2025-12,PROD-028,Stepper Motor Nema 17,57,12.5
+2025-12,PROD-029,DC Toy Motor 3V-6V,79,0.8
+2025-12,PROD-030,L298N Dual Motor Driver,78,2.8
+2025-12,PROD-031,ULN2003 Stepper Driver Module,86,1.5
+2025-12,PROD-032,5V Relay Module 1-Channel,58,1.2
+2025-12,PROD-033,5V Relay Module 4-Channel,63,3.5
+2025-12,PROD-034,Solenoid Lock 12V,61,8.5
+2025-12,PROD-035,Active Buzzer 5V,75,0.5
+2025-12,PROD-036,Resistor Pack (100 pcs),118,1.2
+2025-12,PROD-037,Electrolytic Capacitor Kit,142,4.0
+2025-12,PROD-038,Ceramic Capacitor Kit,125,3.0
+2025-12,PROD-039,LED Assortment (50 pcs),96,1.5
+2025-12,PROD-040,1N4007 Rectifier Diode (10 pcs),58,0.5
+2025-12,PROD-041,Zener Diode Kit,78,3.5
+2025-12,PROD-042,2N2222 NPN Transistor (10 pcs),66,0.8
+2025-12,PROD-043,IRF540N MOSFET Power,62,1.0
+2025-12,PROD-044,NE555 Timer IC,74,0.6
+2025-12,PROD-045,LM358 Dual Op-Amp IC,55,0.5
+2025-12,PROD-046,Potentiometer 10k,46,0.7
+2025-12,PROD-047,Tactile Push Button (10pcs),53,0.8
+2025-12,PROD-048,Soldering Iron 60W Adjustable,50,8.0
+2025-12,PROD-049,Digital Multimeter DT830B,44,12.0
+2025-12,PROD-050,Solder Wire Reel 100g,59,3.5
+2025-12,PROD-051,Soldering Iron Stand,62,2.5
+2025-12,PROD-052,Solder Sucker Desoldering Pump,40,2.0
+2025-12,PROD-053,Wire Stripper & Cutter,65,4.5
+2025-12,PROD-054,Tweezers Anti-static Set (3pcs),72,3.0
+2025-12,PROD-055,Hot Glue Gun 40W,56,6.0
+2025-12,PROD-056,Digital Vernier Caliper,48,15.0
+2025-12,PROD-057,Heat Shrink Tube Kit,126,3.8
+2025-12,PROD-058,Heavy Duty 9V Battery,49,1.5
+2025-12,PROD-059,AA Battery Pack (4pcs),125,2.0
+2025-12,PROD-060,18650 Li-ion Battery 2500mAh,72,3.5
+2025-12,PROD-061,Dual 18650 Battery Charger,49,4.5
+2025-12,PROD-062,TP4056 Li-ion Charging Module,55,0.6
+2025-12,PROD-063,MB102 Breadboard Power Module,73,1.8
+2025-12,PROD-064,12V 2A Power Adapter DC,66,5.0
+2025-12,PROD-065,5V 3A USB-C Power Adapter,53,6.5
+2025-12,PROD-066,LM2596 DC-DC Buck Converter,75,1.6
+2025-12,PROD-067,XL6009 DC-DC Boost Converter,44,1.8
+2025-12,PROD-068,Breadboard Full Size (Large),54,2.5
+2025-12,PROD-069,Breadboard Half Size (Mini),72,1.0
+2025-12,PROD-070,Jumper Wires M-M (40pcs),143,1.0
+2025-12,PROD-071,Jumper Wires M-F (40pcs),116,1.0
+2025-12,PROD-072,Jumper Wires F-F (40pcs),111,1.0
+2025-12,PROD-073,USB Cable Type-B for Arduino,64,1.5
+2025-12,PROD-074,USB-C Data Cable 1m,71,2.0
+2025-12,PROD-075,Micro USB Cable 1m,81,1.5
+2025-12,PROD-076,Alligator Clip Test Leads (10pcs),59,2.5
+2025-12,PROD-077,Perfboard Prototype PCB 9x15cm,53,1.2
+2025-12,PROD-078,LCD 1602 Display with I2C,56,3.5
+2025-12,PROD-079,LCD 2004 Character Display I2C,59,6.0
+2025-12,PROD-080,OLED Display 0.96 inch I2C,136,4.0
+2025-12,PROD-081,7-Segment Display 4-Digit,64,1.8
+2025-12,PROD-082,8x8 LED Dot Matrix MAX7219,140,2.5
+2025-12,PROD-083,NeoPixel LED Ring 16-Bit RGB,111,4.5
+2025-12,PROD-084,DC Power Jack Female Panel,75,0.4
+2025-12,PROD-085,DC Power Jack Male Connector,161,0.4
+2025-12,PROD-086,40-Pin Male Header Strip (5pcs),127,0.8
+2025-12,PROD-087,40-Pin Female Header Strip (5pcs),152,1.0
+2025-12,PROD-088,SPDT Toggle Switch Mini,74,0.6
+2025-12,PROD-089,Rocker Switch KCD1 On/Off,61,0.5
+2025-12,PROD-090,Screw Terminal Block 2-Pin (10pc),62,1.5
+2025-12,PROD-091,Banana Plug Red/Black Pair,69,1.2
+2025-12,PROD-092,HC-05 Bluetooth Serial Module,55,4.5
+2025-12,PROD-093,NRF24L01 Wireless 2.4G Module,73,2.0
+2025-12,PROD-094,SIM800L GPRS GSM Module,68,8.5
+2025-12,PROD-095,NEO-6M GPS Module with Antenna,45,12.0
+2025-12,PROD-096,ESP32-CAM Module with Camera,53,8.0
+2025-12,PROD-097,MP3 YX5300 Serial Sound Module,68,3.5
+2025-12,PROD-098,SD Card Reader Module SPI,73,1.5
+2025-12,PROD-099,DS3231 High Precision RTC Module,66,2.8
+2025-12,PROD-100,Smart Car Chassis 2WD Kit,118,14.0
+2025-12,PROD-101,Robot Gripper Mechanical Arm,61,9.0
+2025-12,PROD-102,Omni Directional Wheel 50mm,75,5.0
+2025-12,PROD-103,DC Geared Motor with Wheel,51,2.5
+2025-12,PROD-104,Metal Ball Caster Wheel,73,1.2
+2025-12,PROD-105,74HC595 8-Bit Shift Register,70,0.5
+2025-12,PROD-106,74HC138 3-to-8 Line Decoder,50,0.5
+2025-12,PROD-107,MAX232 RS232 to TTL Converter,70,1.0
+2025-12,PROD-108,L293D Quad Motor Driver IC,76,1.2
+2025-12,PROD-109,PC817 Optocoupler IC,50,0.3
